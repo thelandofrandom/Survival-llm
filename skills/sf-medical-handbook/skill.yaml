@@ -1,0 +1,10 @@
+name: sf_medical_handbook
+title: SF Medical Handbook
+description: 'ST 31-91B U.S. Army Special Forces Medical Handbook (Army, 1982): S.O.A.P. field diagnosis by body system, communicable disease (malaria, dysentery, cholera), shock and war surgery, burns and blast, heat and cold injury, bites and poisoning, NBC, dental, preventive medicine, field sanitation and water purification. ARCHIVE MANUAL — medicine is dated/superseded; current TCCC (ATP 4-02.11, 2026) wins on any conflict. Use for field diagnosis, austere care, disease recognition, and prevention — never for drug doses, CPR, or hemorrhage control.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
