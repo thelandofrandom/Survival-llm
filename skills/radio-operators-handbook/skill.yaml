@@ -1,0 +1,10 @@
+name: radio_operators_handbook
+title: Radio Operator's Handbook (MCRP 3-40.3B)
+description: 'MCRP 3-40.3B Radio Operator''s Handbook: radio propagation and frequency bands, SINCGARS VHF-FM (30-87.975 MHz), HF sky wave and MUF/LUF, antenna length formulas (468/f, 234/f), siting and grounding, interference, electronic warfare, voice procedure, prowords, phonetic alphabet, message format, authentication. Use when setting up field radios, choosing frequencies or antennas, troubleshooting comms, or talking on a tactical net.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

@@ -1,0 +1,10 @@
+name: visual_signals
+title: Visual Signals
+description: 'TC 3-21.60 Visual Signals (U.S. Army, Mar 2017): hand-and-arm signals for dismounted troops, ground vehicles, convoys and aircraft, flag signals, ground-to-air panels and emergency codes, pyrotechnics and smoke. Use when you need the exact arm movement for a signal — formations, halt, take cover, enemy in sight, danger area, freeze, crew-served weapons fire control, vehicle guidance, traffic and convoy control, helicopter marshalling, sling-load signals, panel layouts, or smoke and flare meanings; when radios are out, silence is required, or signals must be prearranged in an OPORD.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

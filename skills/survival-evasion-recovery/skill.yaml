@@ -1,0 +1,10 @@
+name: survival_evasion_recovery
+title: Survival, Evasion, and Recovery
+description: 'MCRP 3-02H Survival, Evasion, and Recovery (Marine Corps multiservice, 1999): the SURVIVAL acronym, immediate actions and hole-up sites, evasion movement and concealment, navigation (compass, sun, stars, stick-shadow), radio procedure and signaling (mirror, smoke, panels, ground-to-air), authentication and helicopter recovery, medical self-aid, shelter and fire, water procurement and purification, snares and the plant edibility test, NBC hazards. Use when asked about SERE, survival priorities, evasion, signaling for rescue, water purification, or improvised food and shelter.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

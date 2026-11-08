@@ -1,0 +1,10 @@
+name: warfighting
+title: Warfighting (MCDP 1)
+description: 'MCDP 1 Warfighting, the Marine Corps capstone doctrine: the nature of war (friction, uncertainty, disorder), maneuver warfare vs attrition, centers of gravity, OODA loop decision-making, mission tactics, commander''s intent, main effort, surfaces and gaps, combined arms. Use when thinking about strategy, command, decision-making under uncertainty, mission command, tempo, or why a plan failed — the "why" underneath tactics.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

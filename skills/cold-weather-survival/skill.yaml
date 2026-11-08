@@ -1,0 +1,10 @@
+name: cold_weather_survival
+title: Cold-Weather Survival
+description: 'TC 21-3 Soldier''s Handbook for Individual Operations and Survival in Cold-Weather Areas (U.S. Army, Sep 2025): operating and surviving in the cold — C-O-L-D clothing rules, ECWCS Gen III layers, the modular sleep system, weapons care in the cold, calories and water requirements, wind chill, hypothermia/frostbite/trench foot, carbon monoxide, patrol base in the cold, moving over snow, land navigation in snow, improvised shelters, food, and knots. Use when dressing for cold weather, planning cold-weather operations, treating cold injuries, building a snow cave or lean-to, or moving on skis or snowshoes.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
