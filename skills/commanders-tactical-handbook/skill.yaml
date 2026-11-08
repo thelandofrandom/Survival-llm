@@ -1,0 +1,10 @@
+name: commanders_tactical_handbook
+title: Commander's Tactical Handbook
+description: 'MCRP 3-11.1A Commander''s Tactical Handbook (Marine Corps, Jul 1988): the company-level field reference — troop-leading steps, METT-T, SALUTE, DRAW-D, KOCOA-W, the five-paragraph order, offensive and defensive operations, engagement areas, retrograde, patrolling and ambushes, operations other than war, and fire support including call for fire and close air support. Use when planning a tactical operation, writing an order, building an engagement area, or calling for fire.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
