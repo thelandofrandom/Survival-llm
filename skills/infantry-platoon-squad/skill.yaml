@@ -1,0 +1,10 @@
+name: infantry_platoon_squad
+title: Infantry Rifle Platoon and Squad
+description: 'ATP 3-21.8 C1 Infantry Rifle Platoon and Squad (Army, 2024): platoon and 9-man squad organization, weapons squad, troop leading procedures (8 steps), METT-TC, five-paragraph OPORD, movement formations and techniques (traveling, traveling overwatch, bounding overwatch), forms of maneuver, attack, area defense, retrograde, engagement-area development, fighting positions, raid and ambush, reconnaissance patrols, sustainment and TCCC. Use when asked about infantry small-unit tactics, squad organization, patrols, ambushes, offense/defense, or troop leading procedures.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
