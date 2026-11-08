@@ -1,0 +1,10 @@
+name: mout
+title: Military Operations on Urbanized Terrain (MCRP 12-10B.1)
+description: 'MCRP 12-10B.1 Military Operations on Urbanized Terrain (MOUT): urban warfare features, offense and defense in built-up areas, building attack and room clearing, mouseholes, top-down clearing, weapons effects against walls, fighting positions, subterranean operations, obstacles and demolitions, noncombatants and ROE, Chechnya 1994-1996 lessons. Use when fighting, moving, or planning in a city — clearing buildings, crossing streets, defending a strongpoint, or understanding what weapons do to walls.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

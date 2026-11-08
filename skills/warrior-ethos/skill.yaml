@@ -1,0 +1,10 @@
+name: warrior_ethos
+title: Warrior Ethos and Soldier Combat Skills
+description: 'TC 3-21.75 The Warrior Ethos and Soldier Combat Skills (U.S. Army, Aug 2013): the individual Soldier''s manual — Army values, law of land warfare, individual readiness, combat lifesaver first aid, desert/jungle/arctic preparation, cover/concealment/camouflage, fighting positions, individual movement, urban combat, Every Soldier is a Sensor, SALUTE reporting, range estimation, combat marksmanship and zeros, communications, SERE and the Code of Conduct, CBRN weapons. Use when asked about the Warrior Ethos or Soldier''s Creed, first aid priorities, how to report enemy activity, how to estimate range, how to zero a rifle, how to clear a room, or how to survive, evade, resist, and escape.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
