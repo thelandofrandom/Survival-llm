@@ -1,0 +1,10 @@
+name: sere
+title: SERE
+description: 'AFH 10-644 SERE Operations (Air Force, Mar 2017): the 652-page handbook for Survival, Evasion, Resistance, and Escape — the IP mission (return to friendly control, maintain life, maintain honor, return), the Code of Conduct, psychology of isolation and captivity, SERE medicine, global climates, open-sea survival, water and food, land navigation, signaling and ground-to-air signals, recovery, evasion and camouflage, and urban survival. Use when someone is isolated, evading, or captured; when asked about the Code of Conduct, evasion techniques, ground-to-air signals, or urban survival; or as the deep reference behind the shorter survival skill.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
