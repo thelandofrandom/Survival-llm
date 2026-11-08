@@ -1,0 +1,10 @@
+name: military_mountaineering
+title: Military Mountaineering
+description: 'TC 3-97.61 Military Mountaineering (Army, Nov 2025): moving and fighting in mountains — altitude illness and acclimatization, cold injuries, avalanches, rock/snow/ice climbing, knots, anchors, rope systems, fixed ropes and rappelling, glacier travel and crevasse rescue, stream crossing, rope bridges, and mountain rescue. Use when planning mountain movement, climbing, cold-weather or high-altitude operations, avalanche risk, or any rope work in steep terrain.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
