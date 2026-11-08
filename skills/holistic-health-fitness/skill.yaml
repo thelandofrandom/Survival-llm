@@ -1,0 +1,10 @@
+name: holistic_health_fitness
+title: Holistic Health and Fitness
+description: 'FM 7-22 C1 Holistic Health and Fitness (Army, 2020): the H2F System and its five domains (physical, nutritional, mental, spiritual, sleep), physiology and energy pathways, VO2 max, periodization (micro/meso/macrocycles, Base-Build-Peak-Combat-Recovery), program design, the Karvonen formula, the six-event ACFT, event fueling and recovery, sleep readiness (7-9 hours) and sleep-debt planning, reconditioning, coaching, and training schedules. Use when asked about military fitness, H2F, periodized training, sleep, nutrition for performance, or the ACFT.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

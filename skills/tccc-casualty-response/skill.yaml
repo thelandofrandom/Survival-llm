@@ -1,0 +1,10 @@
+name: tccc_casualty_response
+title: TCCC Casualty Response
+description: 'ATP 4-02.11 Casualty Response / TCCC and First Aid (Army, Mar 2026): the current Tactical Combat Casualty Care standard — casualty response and evacuation, the 9-line MEDEVAC request, DD Form 1380, the three phases (Care Under Fire, Tactical Field Care, Tactical Evacuation Care), MARCH-PAWS assessment, tourniquets and junctional bleeding control, chest seals and needle decompression, blood-product resuscitation, hypothermia prevention, and secondary injuries. Use for any combat or tactical casualty, gunshot or blast injury, severe bleeding, chest wound, or evacuation question. Where it conflicts with FM 4-25.11 (2002), this 2026 manual wins.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
