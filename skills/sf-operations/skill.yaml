@@ -1,0 +1,10 @@
+name: sf_operations
+title: Special Forces Operations
+description: 'FM 31-21 Special Forces Operations (Army, Feb 1969) — HISTORIC Vietnam-era doctrine: unconventional warfare, the A/B/C detachment structure, building a resistance movement in seven phases, guerrilla warfare principles, infiltration and exfiltration, intelligence and security in the UWOA, stability operations, and demobilization. Use for UW principles and organization and historical SF doctrine — NOT current TTPs; verify operational details against current doctrine.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

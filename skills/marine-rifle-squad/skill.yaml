@@ -1,0 +1,10 @@
+name: marine_rifle_squad
+title: Marine Rifle Squad (MCRP 3-10A.4)
+description: 'MCRP 3-10A.4 Marine Rifle Squad: the 13-Marine squad and its three fire teams, fire commands and geometries of fire, suppression and enfilade, squad formations, fire and maneuver, troop-leading steps, offensive and defensive operations, consolidation, patrolling, urban operations, mounted/mechanized/air assault movement, call for fire, hand-and-arm signals. Use when leading or fighting as a rifle squad or fire team — organizing, moving, shooting, attacking, defending, or patrolling.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

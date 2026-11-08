@@ -1,0 +1,10 @@
+name: survival
+title: Survival
+description: 'ATP 3-50.21 Survival (Army, Sep 2018): staying alive after an isolating event — the survival pattern and SURVIVAL acronym, psychology and will to survive, water requirements and purification, food and the Universal Edibility Test, fire, shelter, navigation, signaling, and knots. Use when someone is lost, stranded, or cut off from support; when asked how much water to drink, how to purify water, how to start a fire, build a shelter, find food, or signal for rescue; or when planning a survival kit.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
