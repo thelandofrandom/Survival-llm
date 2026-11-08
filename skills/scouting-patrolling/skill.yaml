@@ -1,0 +1,10 @@
+name: scouting_patrolling
+title: Scouting and Patrolling (MCTP 3-01A)
+description: 'MCTP 3-01A Scouting and Patrolling: patrol planning and the six tenets, troop-leading steps, raid and ambush patrols, reconnaissance patrols, movement formations, passage of lines, rally points, danger areas, actions on contact (ambush, IED, drone), patrol base, the scout as hunter, observation and SALUTE reporting, tracking and spoor reading, profiling in a population, fieldcraft. Use when planning or running a patrol, moving unseen, observing, tracking, or operating among civilians.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

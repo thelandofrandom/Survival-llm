@@ -1,0 +1,10 @@
+name: ground_reconnaissance
+title: Ground Reconnaissance Operations
+description: 'MCRP 2-10A.6 Ground Reconnaissance Operations (Marine Corps, Apr 2018): how ground reconnaissance works — recon battalion and force recon organization, the SARCC and ROC command-and-control system, mission development and the mission planning folder, area/zone/route/force-oriented reconnaissance, surveillance and hide sites, insertion methods (CRRC, diving, helocast, airborne, helicopterborne, mounted, dismounted), communications and EW, and intelligence reporting via the RAIDERREP. Use when planning or understanding reconnaissance missions, surveillance, insertion, or intel reporting.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
