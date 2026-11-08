@@ -1,0 +1,10 @@
+name: ranger_handbook
+title: Ranger Handbook
+description: 'TC 3-21.76 Ranger Handbook (U.S. Army, Sep 2025): small-unit leadership, troop leading procedures and the OPORD, fire support and risk estimate distances, demolitions, movement and patrols, battle drills, machine gun employment, waterborne and mounted operations, and TCCC/MEDEVAC. Use when planning a patrol or small-unit mission, calling for fire, crossing danger areas, setting up a patrol base, running battle drills, or requesting a MEDEVAC; when asked about Ranger leadership roles, the Ranger Creed, TLP, the 1/3:2/3 rule, METT-TC, ambush and raid procedures, or machine gun specs.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

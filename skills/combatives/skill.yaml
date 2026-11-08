@@ -1,0 +1,10 @@
+name: combatives
+title: Combatives
+description: 'TC 3-25.150 Combatives (U.S. Army, Mar 2017; manual text TC 3-22.150): the Army hand-to-hand fighting system — fight strategy by range (projectile, striking, clinching, grappling), dominant positions, basic/intermediate/advanced ground fighting, chokes and arm bars, sweeps, clinch and takedowns, striking, rifle/bayonet and knife techniques, detainee procedures, and competition scoring. Use when learning or teaching a technique, deciding what to do in a fight at a given range, running a combatives training program, or scoring a competition; when asked about the rear naked choke, arm bar, guard pass, sprawl, pummeling, or weapon-retention grappling.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
