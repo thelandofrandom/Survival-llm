@@ -1,0 +1,10 @@
+name: first_aid
+title: First Aid
+description: 'FM 4-25.11 First Aid (Army, Dec 2002): the standard first-aid manual — vital signs and casualty evaluation, opening the airway and rescue breathing, stopping bleeding, shock, specific injuries (head, chest, abdomen, burns, Rule of Nines), fractures and splinting, heat and cold injuries, bites and stings, NBC first aid, and psychological reactions. Use when someone is injured and help is not immediately available; when asked how to treat bleeding, shock, burns, fractures, heatstroke, frostbite, or snakebite; or when building a first-aid kit. Note: 2002 doctrine — where it conflicts with ATP 4-02.11 (2026), the 2026 TCCC standard wins.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

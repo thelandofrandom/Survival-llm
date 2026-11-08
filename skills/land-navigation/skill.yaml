@@ -1,0 +1,10 @@
+name: land_navigation
+title: Land Navigation
+description: 'FM 3-25.26 Map Reading and Land Navigation (Army, Jul 2001): the complete course in finding your way — map scales and marginal information, contour lines and relief, UTM/MGRS grid coordinates, the G-M angle and declination, the lensatic compass, azimuths and back azimuths, pace count calibration, dead reckoning, terrain association, resection and intersection, navigation by terrain type, overlays, aerial photographs, and GPS. Use when asked how to read a map, plot a grid coordinate, use a compass, find direction without one, count paces, or navigate without GPS; or when planning a route on foot or by vehicle.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

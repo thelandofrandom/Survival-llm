@@ -1,0 +1,10 @@
+name: sniper_training
+title: Sniper Training
+description: 'FM 23-10 Sniper Training (Army, 1994): the M24 and M21 sniper weapon systems, M118 ammunition, M3A scope and zeroing, marksmanship fundamentals, MOA and mil-relation range estimation, wind and angle-fire corrections, ghillie and hide fieldcraft, stalking, observation and SALT reporting, mission planning, tracking and countertracking, and qualification. Use when asked about long-range precision shooting, sniper teams, range estimation, wind calls, hides, stalking, or sniper employment.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

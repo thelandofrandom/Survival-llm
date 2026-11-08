@@ -1,0 +1,10 @@
+name: rifle_carbine
+title: Rifle and Carbine
+description: 'TC 3-22.9 Rifle and Carbine (Army, May 2016, Change 3 Nov 2019): the M4/M16 manual — the four rules of firearms safety, weapon safety status (green/amber/red/black), cycle of function, MOA and mils, optics, thermal sights and lasers, the shot process (stability, aim, control, movement), natural point of aim, trigger and breathing control, malfunctions and immediate/remedial action, movement, and 25-meter zeroing. Use when shooting, zeroing, diagnosing a malfunction, or training rifle marksmanship.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
