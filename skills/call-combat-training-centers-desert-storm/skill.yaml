@@ -1,0 +1,10 @@
+name: call_combat_training_centers_desert_storm
+title: 'CALL: How Well Did the Combat Training Centers Prepare Units for Combat?'
+description: 'ARI Technical Report 970, How Well Did the Combat Training Centers Prepare Units for Combat? Questionnaire Results from Desert Storm Participants (Keene and Halpin, U.S. Army Research Institute, January 1993, 31 pages): a survey-results report asking Desert Storm veterans what surprises their CTC experience did not prepare them for — 10,000 questionnaires, 2,463 returned, 1,318 answered, 837 with CTC rotations; twelve surprise categories from methods and procedures (156) and EPWs (107) through communications (78), maintenance (58), enemy (35), casualties (34), and hazards (10); the rapid advance outrunning planning, EPW overload (300–500 prisoners a day vs. 5–10 per CTC rotation), GPS as a must, "commo stunk," weapons confidence with IFF as "THE biggest problem," and the verdict that NTC rotations were harder than the war. Use when someone asks how well the combat training centers prepared units for Desert Storm, what surprised veterans, or what the CTCs got right and wrong. Questionnaire data, not lessons learned — report what respondents said, with counts, and never present a survey response as a verified lesson.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

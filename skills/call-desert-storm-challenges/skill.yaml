@@ -1,0 +1,10 @@
+name: call_desert_storm_challenges
+title: 'CALL: Desert Storm Challenges'
+description: 'ARI Research Report 1633, Desert Storm Challenges: An Overview of Desert Storm Survey Responses (Halpin and Keene, U.S. Army Research Institute, January 1993, 100 pages): a survey-overview report describing what 2,463 Desert Storm participants reported about the challenges of the war — 10,000 surveys, 1,864 officers, 478 NCOs, 58 warrant officers; effectiveness ratings (recon 5.4, FASCAM flank support 2.5), leadership (officer 5.7, NCO 5.5), disruptive factors, task difficulty, commander''s intent as the single most important element, the abbreviated estimate process (84% adequate), resources, movement in deep operations (EPWs slowed 32%, enemy actions only 7%), synchronization, task organization, intelligence flow and IPB ratings, communications (age, range, quantity), the air war, A2C2, training (rehearsals 6.1), weapons, logistics, security and EOD, and lessons-learned candidates (GPS most frequent). Use when someone asks what Desert Storm commanders and staffs reported as the challenges of the war, how the survey was run, or what the numbers say about intent, rehearsals, comms, intel, and logistics. Explicitly NOT lessons learned — survey data describing what participants reported, with all responses weighted equally; report findings with counts, percentages, and ratings, never as verified lessons.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

@@ -1,0 +1,10 @@
+name: fm_21_77_evasion_escape
+title: FM 21-77 Evasion and Escape
+description: 'FM 21-77 Evasion and Escape (Army, May 1958, 176 pages): the Army''s first comprehensive evasion and escape manual — why evasion training exists, the legal status of evaders and escapees under the Geneva Conventions, the six articles of the Code of Conduct, short-range evasion by isolated units (defense, breakout, infiltration, deeper penetration, guerrilla operations), long-range evasion far behind enemy lines (the will to survive, orientation, cross-country travel, populated-area deception, native assistance, escape lines), contacting friendly forces and neutral countries, capture and early escape, life in a POW camp, resisting interrogation and indoctrination, and escape from POW camps, plus a training program and field evasion exercise. Use when someone asks how to evade capture, escape from a POW camp, resist interrogation, survive captivity, contact friendly forces after being cut off, or what the Code of Conduct requires; or when researching Cold War evasion doctrine and its history. Historic 1958 material: for current doctrine use the sere skill (AFH 10-644) and survival-evasion-recovery (MCRP 3-02H). Note: many escape methods in this volume defer to the classified supplement FM 21-77A, which is not in the vault — this skill covers only what the unclassified manual actually contains.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

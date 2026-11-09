@@ -1,0 +1,10 @@
+name: fm_21_78_resistance_escape
+title: FM 21-78 Resistance and Escape
+description: 'FM 21-78 Resistance and Escape (Army, 15 June 1989, classified): the Army field manual on resistance to exploitation and escape from captivity — historical background, the Code of Conduct, effects of captivity, organizing in captivity, exploitation, propaganda, indoctrination, interrogation, resistance techniques, POW camp communication, escape and rescue, and peacetime detention including terrorist captivity and hostage situations. TOC ONLY — the vault hosts only the table of contents (4 pages, 647 words); no chapter body text exists in this source, so this skill maps what the manual covers chapter by chapter and routes doctrine questions to the skills that hold the actual guidance. Use when someone asks what FM 21-78 covers, what its chapters are, or where to find resistance and escape doctrine. For actual resistance, escape, and SERE doctrine use the sere skill (AFH 10-644) and survival-evasion-recovery (MCRP 3-02H); for the 1958 predecessor in full use fm-21-77-evasion-escape. Do not invent chapter content from the titles.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

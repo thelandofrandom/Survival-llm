@@ -1,0 +1,10 @@
+name: call_winning_in_the_desert
+title: 'CALL: Winning in the Desert'
+description: 'CALL: Winning in the Desert (Center for Army Lessons Learned newsletter, DTIC ADA446544, August 1990, 32 pages): a Desert Storm-era lessons-learned compilation from the National Training Center, Exercise BRIGHT STAR, and the Saudi Arabia Lessons Learned program — desert geography and climate, driving and navigation, water and heat discipline, acclimation, sanitation and disease, clothing, sand and dust effects on equipment and vehicles, cooling and batteries, Saudi Arabia lessons learned, tips on fighting in the desert (intelligence, maneuver, fire support, mobility, air defense, CSS, C2), and knowledge of Arab customs. Use when someone asks how to operate, fight, survive, or maintain equipment in the desert; how much water troops need in the heat; how to drive and navigate desert terrain; or how to behave in Arab culture in theater. A lessons-learned report, not a manual — for desert doctrine use FM 90-3 and current Army doctrine. Cover-page OCR is garbled; body text is readable.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
