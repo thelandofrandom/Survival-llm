@@ -1,0 +1,10 @@
+name: mctp_12_10d_desert_operations
+title: MCTP 12-10D Desert Operations
+description: 'Desert operations (ATP 3-90.99 / MCTP 12-10D) — desert classifications and terrain, desert weather and its effects on people and equipment, water discipline and the WBGT work/rest and water-consumption guide, heat injury prevention and acclimatization, desert navigation and mirage/refraction, offense, defense, and stability operations in the desert, and operating vehicles and equipment in sand and heat. Use when planning desert movement or operations, setting work/rest cycles in extreme heat, managing water supply, navigating featureless desert terrain, or keeping vehicles and weapons running in dust and sand.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

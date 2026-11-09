@@ -1,0 +1,10 @@
+name: mctp_12_10c_jungle_operations
+title: MCTP 12-10C Jungle Operations
+description: 'Jungle operations (ATP 3-90.98 / MCTP 12-10C) — jungle regions, weather, terrain, and wildlife, environmental effects on personnel and equipment, malaria and mosquito discipline, leeches and snakes, heat injury in the jungle, jungle navigation and tracking, negotiating jungle obstacles, individual combat load, offense, defense, and stability operations in the jungle, and jungle training including camouflage, survival, water survival, and land navigation. Use when operating in jungle or tropical forest, preventing insect- and water-borne disease, navigating where visibility is measured in meters, crossing jungle obstacles, or training for jungle operations.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
