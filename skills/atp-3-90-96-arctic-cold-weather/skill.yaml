@@ -1,0 +1,10 @@
+name: atp_3_90_96_arctic_cold_weather
+title: ATP 3-90.96 Arctic and Extreme Cold Weather Operations
+description: 'ATP 3-90.96 Arctic and Extreme Cold Weather Operations (U.S. Army, Feb 2025, Change 2): operating and fighting in the Arctic — the polar environment and its hazards, cold-weather planning and maneuver, command and control, movement, fires, sustainment, protection, and training, plus appendices on mobility, ice, cold-weather injury identification and prevention, and unit measures. Use when planning or executing operations in extreme cold; when asked how cold, wind, snow, ice, and darkness change tactics, how to prevent and treat hypothermia, frostbite, and trench foot, how to move and sustain a force on snow and ice, or how to train for Arctic operations.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

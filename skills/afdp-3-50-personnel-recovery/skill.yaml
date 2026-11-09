@@ -1,0 +1,10 @@
+name: afdp_3_50_personnel_recovery
+title: AFDP 3-50 Personnel Recovery
+description: 'AFDP 3-50 Personnel Recovery (U.S. Air Force, Sep 2025): the Air Force''s operational-level doctrine for getting isolated personnel home — the personnel recovery system, the five execution tasks (report, locate, support, recover, reintegrate), command and control through the Joint Personnel Recovery Center and personnel recovery coordination cells, preparation across the competition continuum, planning, recovery forces and the combat search and rescue task force, and dynamic rescue. Use when asked how the Air Force does personnel recovery; what report, locate, support, recover, and reintegrate mean in practice; how a PR mission is planned, launched, held, or concluded; or how Airmen prepare for isolation under Agile Combat Employment.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

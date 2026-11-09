@@ -1,0 +1,10 @@
+name: jp_3_50_21_csar_ttps
+title: JP 3-50.21 Joint TTPs for Combat Search and Rescue
+description: 'JP 3-50.21 Joint Tactics, Techniques, and Procedures for Combat Search and Rescue (Joint, Mar 1998): the how-to companion to JP 3-50.2 — the five stages of a CSAR operation (awareness and notification, situation assessment, mission planning, execution, mission conclusion), JSRC organization and staffing, search and locating methods, objective-area operations, single- and multi-ship helicopter recovery, task-force roles (airborne mission commander, rescue combat air patrol, on-scene commander, RESCORT), and the AMC/OSC/communications checklists. Use when executing a CSAR mission; when asked how a CSAR task force is built, what the AMC, OSC, or RESCORT does, how search patterns and objective areas work, or how to authenticate and recover isolated personnel under threat.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
