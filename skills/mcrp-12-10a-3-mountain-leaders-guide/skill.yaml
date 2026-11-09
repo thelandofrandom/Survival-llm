@@ -1,0 +1,10 @@
+name: mcrp_12_10a_3_mountain_leaders_guide
+title: MCRP 12-10A.3 Mountain Leader's Guide to Mountain Warfare Operations
+description: 'Mountain warfare operations — intelligence in mountainous terrain, command and control and communications, maneuver planning, rope management, knots and anchors, mechanical-advantage hauling systems, one-rope bridges and suspension traverses, rappelling and party climbing, rescue climbing, steep-earth climbing, mountain security, alpine equipment and movement, glacier travel and crevasse rescue, fires, logistics, force protection, mountain survival, and mountain training. Use when rigging anchors or rope systems, crossing a gap or stream on a rope bridge, climbing or rappelling with a team, traveling on a glacier, or planning and sustaining operations in steep mountain terrain.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
