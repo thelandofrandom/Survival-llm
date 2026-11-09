@@ -1,0 +1,10 @@
+name: fm_21_150_combatives
+title: FM 21-150 Combatives (1992)
+description: 'FM 21-150 Combatives (U.S. Army, Sep 1992, 232 pages) — the legacy range-based hand-to-hand system: close/medium/long-range fighting, vital targets, chokes and counters, throws, strikes, bayonet and knife, field-expedient weapons, transitions between ranges, and sentry removal. Superseded by FM 3-25.150 (2002) and TC 3-25.150 (2017, the current standard) — use for the range framework, vital-targets striking, sentry removal, and pugil/bayonet-course material the later manuals cut. Use when asked about FM 21-150, 1992 combatives, vital targets, sentry removal, pugil training, or how Army combatives differed before the ground-fighting rebuild.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

@@ -1,0 +1,10 @@
+name: fm_90_3_desert_operations
+title: FM 90-3 Desert Operations
+description: 'FM 90-3 Desert Operations (U.S. Army, 1993) — the desert environment and its effects on personnel and equipment, preparations and training for desert operations, operations in desert conditions, combat service support in the desert, aircraft employment, equipment techniques for sand and heat, NBC weapons in the desert, desert concealment and camouflage, mountain operations in arid ranges, water usage, and fratricide reduction. Use when preparing a unit for desert deployment, planning desert logistics and water supply, camouflaging positions in open desert, operating aircraft or vehicles in sand, or studying classic desert operations doctrine.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

@@ -1,0 +1,10 @@
+name: winter_survival_course
+title: USMC MWTC Winter Survival Course Handbook (2002)
+description: 'USMC Mountain Warfare Training Center Winter Survival Course Handbook (Marine Corps, 2002, 187 pages) — winter mountain survival: the SURVIVAL framework and priorities of work, the layered kit, snow and ice water procurement (melt snow, never eat it), snow shelters (snow cave, trench, tree-pit, wall), expedient snowshoes, winter tracking, cold-injury medicine (hypothermia at 95F core), mountain weather, evasion, and the winter-only avalanche and ice hazards chapter (four-variable evaluation, slab release at 35-40 degrees). Use when asked about MWTC winter survival, snow shelters, snowshoes, avalanche evaluation, or cold-weather survival.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

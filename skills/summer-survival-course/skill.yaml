@@ -1,0 +1,10 @@
+name: summer_survival_course
+title: USMC MWTC Summer Survival Course Handbook (2002)
+description: 'USMC Mountain Warfare Training Center Summer Survival Course Handbook (Marine Corps, 2002, 180 pages) — summer mountain survival: the SURVIVAL acronym and priorities of work, the layered six-component kit, water procurement and the dehydration scale, expedient shelters and fires (Dakota hole), signaling and recovery, survival navigation, traps and snares, uses of game, foraging rules and edibility, survival fishing, tracking, survival medicine (hypothermia at 95F core), mountain weather, and evasion. Use when asked about MWTC summer survival, mountain survival, the SURVIVAL acronym, Dakota hole fires, snaring, edible-plant rules, or hypothermia in the field.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

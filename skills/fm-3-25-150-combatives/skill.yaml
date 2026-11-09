@@ -1,0 +1,10 @@
+name: fm_3_25_150_combatives
+title: FM 3-25.150 Combatives (2002)
+description: 'FM 3-25.150 Combatives (U.S. Army, Jan 2002, 265 pages) — the bridge edition: first full statement of the dominant-position ground-fighting system (back mount, mount, guard, side control; chokes and arm bars; guard passes; knee mount; leg attacks), plus takedowns and throws, striking, bayonet and knife, field-expedient weapons, standing defense, and group tactics. Superseded by TC 3-25.150 (2017, the current standard) — use for the original ground system, standing defense, and group tactics. Use when asked about FM 3-25.150, 2002 combatives, dominant positions, guard passing, or how Army combatives changed between 1992 and 2017.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
