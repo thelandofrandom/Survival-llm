@@ -1,0 +1,10 @@
+name: st_31_205_caching
+title: ST 31-205 Special Forces Caching Techniques
+description: 'ST 31-205 Special Forces Caching Techniques (Army, undated, 39 pages): the Special Forces caching text — operational uses of caches, the three methods (concealment, burial, submersion) and how to choose between them, site criteria (accessibility, alternate site, drainage, soil, concealment, seasonal factors), map survey and personal reconnaissance, immediate and final reference points (IRP/FRP) and pinpointing techniques, packaging steps and wrapping materials, stainless steel and field-expedient containers, burial/submersion/concealment emplacement procedures, communications-equipment dispersion, the Twelve-Point Cache Report, and recovery. Use when planning a cache, selecting and pinpointing a site, packaging material for long-term burial, or writing a cache report. Historic undated Cold War-era text — tradecraft is the enduring content.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

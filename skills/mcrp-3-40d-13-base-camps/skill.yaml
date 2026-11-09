@@ -1,0 +1,10 @@
+name: mcrp_3_40d_13_base_camps
+title: ATP 3-37.10 / MCRP 3-40D.13 Base Camps
+description: 'ATP 3-37.10 / MCRP 3-40D.13 Base Camps (U.S. Army and U.S. Marine Corps, 27 January 2017, 190 pages): the joint Army/Marine Corps base camp doctrine — classifying camps by duration (contingency 2-10 years, enduring more than 5 years), size (platoon ~50 to support area 6,000+), construction standard (organic, initial, temporary, semipermanent, permanent) and service level (basic 60 days, expanded 180 days, enhanced), planning and design (basing strategy, master planning, development planning, funding and 10 USC 2804 contingency construction authority), construction (standardized AFCS/JCMS/UFC designs, the six construction management phases, site preparation, construction methods from tents to traditional wood/steel/CMU, troop, USACE/NAVFAC and contracted construction), operations and maintenance (the base operations center, power, water, sewage, field services, supply, waste management, maintenance, emergency management, contracted functions), security and defense (threat levels I/II/III, outer security area, perimeter zone and inner security area, protection forces including MSF and TCF, entry control points, patrols, towers and bunkers), and transfer and closure (environment, waste disposal, property disposition retain/reutilize/redistribute/retrograde/dispose, contracted support, records, emergency abandonment). Use when someone must plan, site, build, run, defend, transfer, or close a base camp in support of contingency operations.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

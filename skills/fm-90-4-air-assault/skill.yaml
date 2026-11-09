@@ -1,0 +1,10 @@
+name: fm_90_4_air_assault
+title: FM 90-4 Air Assault Operations
+description: 'FM 90-4 Air Assault Operations (Army, March 1987, 223 pages): the 1987 air assault doctrine — the air assault task force (AATF) and its capabilities, limitations, and vulnerabilities; preparation for combat and the METT-T estimate; the five plans (ground tactical, landing, air movement, loading, staging) plus the air mission briefing; LZ and PZ selection and control, cross-loading and the bump plan, flight routes and corridors, hasty vs deliberate attack, and combat support and combat service support for the AATF. Use when planning or studying an air assault operation, picking LZs and PZs, building an airloading table, timing lifts from H-hour, or explaining how air assault differs from air movement. Note: historic 1987 doctrine, superseded by later air assault publications — use for the doctrinal framework, not as current tactics.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

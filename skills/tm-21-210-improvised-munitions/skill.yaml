@@ -1,0 +1,10 @@
+name: tm_21_210_improvised_munitions
+title: TM 21-210 Improvised Munitions Handbook
+description: 'TM 21-210 Improvised Munitions Handbook (Army, 1969, 256 pages; cover imprint TM 31-210): the Frankford Arsenal handbook for trained Special Forces personnel — improvised explosives and propellants from drug-store and fertilizer precursors, mines and grenades, shaped charges, pipe pistols/rifles/shotguns with test-fire safety checks, mortars and rocket launchers, incendiary devices and gelled flame fuels, fuses, detonators, delay mechanisms and improvised switches, plus batteries, generators, and armor and explosives reference data. Use when studying the scope and safety rules of improvised munitions, identifying an item in the handbook, or finding which section covers a device. Historic 1969 manual — the distilled skill names items, materials classes, and the manual''s own safety cautions; step-by-step fabrication procedures are only in the verbatim full-text file, and nothing here is a recommendation to build these items.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
