@@ -24,7 +24,7 @@ Each skill in `skills/<slug>/` has:
 | [cold-weather-survival](skills/cold-weather-survival/) | TC 21-3 | Soldier's Handbook for Individual Operations and Survival in Cold-Weather Areas | Army | Sep 2025 | 136 | 2,873 | 37,635 |
 | [warfighting](skills/warfighting/) | MCDP 1 | Warfighting | Marine Corps | Apr 2018 | 109 | 4,011 | 22,575 |
 | [radio-operators-handbook](skills/radio-operators-handbook/) | MCRP 3-40.3B | Radio Operator's Handbook | Marine Corps | undated | 145 | 4,245 | 31,327 |
-| [scouting-patrolling](skills/scouting-patrolling/) | MCTP 3-01A | Scouting and Patrolling | Marine Corps | Jul 2020 | 314 | 4,493 | 109,286 |
+| [scouting-patrolling](skills/scouting-patrolling/) | MCTP 3-01A | Scouting and Patrolling | Marine Corps | Jul 2020 | 314 | 4,499 | 109,286 |
 | [mout](skills/mout/) | MCRP 12-10B.1 | Military Operations on Urbanized Terrain (MOUT) | Marine Corps | Apr 2018 | 371 | 4,056 | 99,927 |
 | [marine-rifle-squad](skills/marine-rifle-squad/) | MCRP 3-10A.4 | Marine Rifle Squad | Marine Corps | Aug 2020 | 284 | 3,641 | 80,510 |
 | [sniper-training](skills/sniper-training/) | FM 23-10 | Sniper Training | Army | Aug 1994 | 329 | 3,688 | 71,985 |
@@ -75,6 +75,62 @@ Wave 1 totals: 25 skills, 5,712 source pages, 81,209 distilled SKILL.md words, 1
 
 Notes: ATP 3-90.96 / MCTP 12-10E are the same joint Arctic publication under different Service numbers (Army- vs Marine-framed skills, cross-referenced). Same for ATP 3-90.99 / MCTP 12-10D Desert Operations (4,529 of ~7,000 text lines shared). FM 21-76 is superseded by ATP 3-50.21 as the current survival authority; the 1992/2002 combatives editions are superseded by TC 3-25.150 (2017).
 
+## Skills (45) — Expansion Wave 2: Fieldcraft Survival (remaining 45)
+
+| Skill | Publication | Title | Branch | Date | Pages | SKILL.md words | Full-text words |
+|---|---|---|---|---|---|---|---|
+| [fm-21-77-evasion-escape](skills/fm-21-77-evasion-escape/) | FM 21-77 | Evasion and Escape | Army | May 1958 | 176 | 4,500 | 35,054 |
+| [fm-21-78-resistance-escape](skills/fm-21-78-resistance-escape/) | FM 21-78 | Resistance and Escape | Army | Jun 1989 | 4 | 949 | 647 |
+| [call-winning-in-the-desert](skills/call-winning-in-the-desert/) | CALL Newsletter (ADA446544) | Winning in the Desert | Army | Aug 1990 | 32 | 1,645 | 14,191 |
+| [call-combat-training-centers-desert-storm](skills/call-combat-training-centers-desert-storm/) | ARI Technical Report 970 | How Well Did the Combat Training Centers Prepare Units for Combat? | Army | Jan 1993 | 31 | 1,544 | 8,046 |
+| [call-desert-storm-challenges](skills/call-desert-storm-challenges/) | ARI Research Report 1633 | Desert Storm Challenges: An Overview of Desert Storm Survey Responses | Army | Jan 1993 | 100 | 2,556 | 29,589 |
+| [fm-21-22-watermanship](skills/fm-21-22-watermanship/) | FM 21-22 | Watermanship | Army | Apr 1944 | 156 | 3,995 | 28,512 |
+| [fm-72-20-jungle-warfare](skills/fm-72-20-jungle-warfare/) | FM 72-20 | Jungle Warfare | Army | Oct 1944 | 146 | 3,150 | 36,525 |
+| [fm-70-15-snow-extreme-cold](skills/fm-70-15-snow-extreme-cold/) | FM 70-15 | Operations in Snow and Extreme Cold | Army | Nov 1944 | 264 | 3,734 | 62,041 |
+| [fm-70-10-mountain-operations-1944](skills/fm-70-10-mountain-operations-1944/) | FM 70-10 | Mountain Operations (1944) | Army | Dec 1944 | 253 | 3,690 | 53,502 |
+| [fm-21-15-clothing-equipment](skills/fm-21-15-clothing-equipment/) | FM 21-15 | Individual Clothing and Equipment | Army | Apr 1945 | 93 | 3,560 | 14,185 |
+| [fm-21-30-military-symbols](skills/fm-21-30-military-symbols/) | FM 21-30 | Military Symbols | Army | Nov 1941 | 70 | 2,834 | 10,100 |
+| [fm-21-100-soldiers-handbook](skills/fm-21-100-soldiers-handbook/) | FM 21-100 | Soldier's Handbook | Army | Dec 1940 | 262 | 4,053 | 66,853 |
+| [fm-20-15-tents](skills/fm-20-15-tents/) | FM 20-15 | Tents and Tent Pitching | Army | Feb 1945 | 81 | 4,500 | 28,012 |
+| [fm-21-7-war-department-films](skills/fm-21-7-war-department-films/) | FM 21-7 | War Department Films | Army | Jan 1945 | 333 | 3,945 | 113,159 |
+| [fm-21-18-foot-marches](skills/fm-21-18-foot-marches/) | FM 21-18 | Foot Marches | Army | Jun 1990 | 130 | 4,500 | 24,381 |
+| [fm-3-97-6-mountain-operations](skills/fm-3-97-6-mountain-operations/) | FM 3-97.6 | Mountain Operations | Army | Nov 2000 | 140 | 2,814 | 51,016 |
+| [fm-90-6-mountain-operations](skills/fm-90-6-mountain-operations/) | FM 90-6 | Mountain Operations | Army | Jun 1980 | 152 | 2,936 | 40,710 |
+| [fm-31-70-basic-cold-weather](skills/fm-31-70-basic-cold-weather/) | FM 31-70 | Basic Cold Weather Manual | Army | Apr 1968 | 203 | 3,749 | 81,603 |
+| [fm-31-71-northern-operations](skills/fm-31-71-northern-operations/) | FM 31-71 | Northern Operations | Army | Jun 1971 | 199 | 2,931 | 66,050 |
+| [fm-31-72-mountain-operations](skills/fm-31-72-mountain-operations/) | FM 31-72 | Mountain Operations | Army | May 1964 | 160 | 3,222 | 74,067 |
+| [fm-31-36-night-operations](skills/fm-31-36-night-operations/) | FM 31-36 (TEST) | Night Operations | Army | Apr 1968 | 280 | 2,867 | 97,909 |
+| [fm-31-30-jungle-operations](skills/fm-31-30-jungle-operations/) | FM 31-30 | Jungle Training and Operations | Army | Sep 1965 | 232 | 3,388 | 85,751 |
+| [fm-31-35-jungle-operations](skills/fm-31-35-jungle-operations/) | FM 31-35 | Jungle Operations | Army | Sep 1969 | 132 | 2,601 | 66,550 |
+| [fm-90-5-jungle-operations](skills/fm-90-5-jungle-operations/) | FM 90-5 | Jungle Operations | Army | Aug 1982 | 191 | 2,783 | 59,904 |
+| [fm-31-25-desert-operations](skills/fm-31-25-desert-operations/) | FM 31-25 | Desert Operations | Army | Feb 1972 | 88 | 2,830 | 43,011 |
+| [fm-20-60-battlefield-illumination](skills/fm-20-60-battlefield-illumination/) | FM 20-60 | Battlefield Illumination | Army | Jan 1970 | 79 | 4,480 | 28,406 |
+| [fm-20-32-mine-countermine](skills/fm-20-32-mine-countermine/) | FM 20-32 | Mine/Countermine Operations | Army | May 1998 | 520 | 4,499 | 136,573 |
+| [tm-21-210-improvised-munitions](skills/tm-21-210-improvised-munitions/) | TM 21-210 | Improvised Munitions Handbook | Army | 1969 | 256 | 2,764 | 38,494 |
+| [st-31-205-caching](skills/st-31-205-caching/) | ST 31-205 | Special Forces Caching Techniques | Army | undated | 39 | 3,270 | 13,951 |
+| [fm-90-4-air-assault](skills/fm-90-4-air-assault/) | FM 90-4 | Air Assault Operations | Army | Mar 1987 | 223 | 2,602 | 58,566 |
+| [assault-climbers-handbook](skills/assault-climbers-handbook/) | Assault Climbers Handbook | Assault Climbers Handbook | Marine Corps | Summer 2002 | 296 | 4,446 | 72,597 |
+| [fm-3-97-61-military-mountaineering-2002](skills/fm-3-97-61-military-mountaineering-2002/) | FM 3-97.61 | Military Mountaineering (2002) | Army | Aug 2002 | 328 | 4,497 | 110,168 |
+| [attp-3-97-11-cold-region-operations](skills/attp-3-97-11-cold-region-operations/) | ATTP 3-97.11 / MCRP 3-35.1D | Cold Region Operations | Army / Marine Corps | Jan 2011 | 114 | 4,058 | 47,600 |
+| [fm-21-26-map-reading-land-navigation](skills/fm-21-26-map-reading-land-navigation/) | FM 21-26 | Map Reading and Land Navigation | Army | May 1993 | 176 | 4,486 | 60,447 |
+| [fm-9-207-cold-weather-ordnance](skills/fm-9-207-cold-weather-ordnance/) | FM 9-207 / TO 36-1-40 | Cold Weather Ordnance | Army / Air Force | Mar 1998 | 113 | 4,489 | 35,190 |
+| [mcrp-7-20b-water-survival](skills/mcrp-7-20b-water-survival/) | MCRP 7-20B | Marine Corps Water Survival | Marine Corps | 2016 | 122 | 4,453 | 21,429 |
+| [mcrp-7-20b-5-water-survival](skills/mcrp-7-20b-5-water-survival/) | MCRP 7-20B.5 | Marine Corps Water Survival | Marine Corps | undated | 122 | 4,484 | 21,429 |
+| [mcrp-3-02c-marine-combat-water-survival](skills/mcrp-3-02c-marine-combat-water-survival/) | MCRP 3-02C | Marine Combat Water Survival | Marine Corps | Jan 2003 | 145 | 4,484 | 20,507 |
+| [mcrp-8-10b-6-water-survival](skills/mcrp-8-10b-6-water-survival/) | MCRP 8-10B.6 | Marine Corps Water Survival | Marine Corps | May 2016 | 118 | 4,483 | 21,216 |
+| [mcrp-3-40d-13-base-camps](skills/mcrp-3-40d-13-base-camps/) | ATP 3-37.10 / MCRP 3-40D.13 | Base Camps | Army / Marine Corps | Jan 2017 | 190 | 4,110 | 81,735 |
+| [fm-3-25-combatives](skills/fm-3-25-combatives/) | FM 3-25 (FM 3-25.150) | Combatives | Army | Jan 2002 | 265 | 2,795 | 36,466 |
+| [marine-hand-to-hand-combat](skills/marine-hand-to-hand-combat/) | NAVMC 1146-403 | Marine Hand-to-Hand Combat | Marine Corps | undated | 18 | 2,817 | 4,002 |
+| [tc-21-7-financial-readiness](skills/tc-21-7-financial-readiness/) | TC 21-7 | Personal Financial Readiness and Deployability Handbook | Army | Aug 2003 | 101 | 4,445 | 40,082 |
+| [mcrp-12-10a-mountain-warfare-2013](skills/mcrp-12-10a-mountain-warfare-2013/) | MCRP 12-10A.1 | Small Unit Leader's Guide to Mountain Warfare Operations (2013) | Marine Corps | May 2013 | 228 | 4,057 | 98,949 |
+| [mcwp-3-35-6-desert-operations](skills/mcwp-3-35-6-desert-operations/) | MCWP 3-35.6 | Desert Operations | Marine Corps | Sep 2004 | 223 | 2,779 | 62,359 |
+
+Wave 2 totals: 45 skills, 7,584 source pages, 157,774 distilled SKILL.md words, 2,201,534 words of verbatim full text.
+
+Notes: FM 21-78 is table-of-contents only (the vault PDF holds only the TOC of the classified 1989 manual) — its skill is an honest short map, not the manual. FM 31-36 is Night Operations, not Jungle Operations as the vault labels it. FM 3-25 (2002) is the same manual as the wave-1 FM 3-25.150 skill (byte-identical extracted text) under its FM 3-25 numbering; MCRP 7-20B and MCRP 7-20B.5 are byte-identical PDFs; MCRP 8-10B.6 is the 2016 original renumbered to MCRP 7-20B.5 by erratum — all kept as separate skills, cross-referenced, per the joint-publication policy. The three short CALL reports and FM 21-78 are below the usual 2,500-word SKILL.md range because their sources are short; every other wave-2 SKILL.md is 2,500–4,500 words. Word counts in this table and the wave-1 table are Python whitespace-token counts; the v0.1.0 table used `wc -w`, which reads ~1–2% lower.
+
+Grand totals: 95 skills, 20,235 source pages, 324,278 distilled SKILL.md words, 5,965,905 words of verbatim full text.
+
 ## Notes and warnings
 
 - **TCCC is current; older first aid is not.** ATP 4-02.11 (Mar 2026) is the current casualty-response / TCCC standard. Where FM 4-25.11 (2002) conflicts with it, the 2026 ATP wins. The TCCC skill contains no TXA/ketamine/fentanyl/morphine doses — those terms do not appear in the extracted ATP text.
@@ -92,4 +148,4 @@ Notes: ATP 3-90.96 / MCTP 12-10E are the same joint Arctic publication under dif
 
 ## Scope
 
-The vault holds 3,513 manuals in total (crawled 2026-11-08). This repo now holds 50 skills: the 25 Recommended manuals plus 25 Fieldcraft Survival manuals (wave 1). Next: the remaining 45 Fieldcraft manuals, then Medical/TCCC (219), Small Unit Tactics (408), Comms Signal (567), Marksmanship Weapons (134). See BUILD_LOG.md for progress.
+The vault holds 3,513 manuals in total (crawled 2026-11-08). This repo now holds 95 skills: the 25 Recommended manuals plus all 70 Fieldcraft Survival manuals (waves 1 and 2 — Fieldcraft is complete). Next: Medical/TCCC (219), Small Unit Tactics (408), Comms Signal (567), Marksmanship Weapons (134). See BUILD_LOG.md for progress.

@@ -1,0 +1,10 @@
+name: mcrp_3_02c_marine_combat_water_survival
+title: MCRP 3-02C Marine Combat Water Survival
+description: 'MCRP 3-02C Marine Combat Water Survival (Marine Corps, 6 January 2003, 145 pages): the older Marine Corps combat water-survival manual — survival at sea and abandoning ship (including the modified abandoning ship technique with pack and weapon and the combat travel stroke), surviving with a waterproofed pack, life preservers (kapok, spelled "kapock" in this 2003 text, and the LPP), inflated blouse and trousers, cold-water heat loss with HELP and huddle positions, drownproofing (T-method and sweep), survival strokes (crawl, breast, side, elementary backstroke), water rescues (reach, wade, throw, approaches, level-offs, tows and carries, defense against a drowning victim, rescue breathing), treatment of casualties (drowning, hypothermia, heat injuries, burns, sea-survival medical problems, dangerous marine life), negotiating water obstacles (tides, surf, currents, back bays, rivers and canals), and fording waterways (ford site selection, slope, current speed, river width, downstream drift, buddy system, ISOMAT and poncho and pack rafts, single-rope bridge, knots). Use when someone must survive in open water, abandon a ship or aircraft over water, cross a river or water obstacle, perform a water rescue, or treat a water casualty. Note: superseded in substance by MCRP 8-10B.6 (2016), later renumbered MCRP 7-20B.5 — the later manual is the authority where they differ, notably the jettison threshold (30 feet here, 15 feet later) and the absence here of gear-shed and field-expedient flotation sections; see also the MCRP 8-10B.6, MCRP 7-20B.5, and MCRP 7-20B water-survival skills.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

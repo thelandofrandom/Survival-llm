@@ -1,0 +1,10 @@
+name: mcrp_7_20b_5_water_survival
+title: MCRP 7-20B.5 Marine Corps Water Survival
+description: 'MCRP 7-20B.5 Marine Corps Water Survival (Marine Corps, undated; vault lists 2021, 122 pages): the Marine Corps water-survival manual — abandoning ship and the surface burning oil swim, surviving with a waterproofed pack and gear shed, life preservers and field-expedient flotation, inflated blouse and trousers, cold-water heat loss with HELP and huddle positions, drownproofing (T-method and sweep), survival strokes (crawl, breast, side, elementary backstroke), water rescues (reach, wade, throw, approaches, level-offs, tows and carries, defense against a drowning victim, rescue breathing), treatment of casualties (drowning, hypothermia, heat injuries, burns, sea-survival medical problems, dangerous marine life), negotiating water obstacles (tides, surf, currents, back bays, rivers and canals), and fording waterways (ford site selection, slope, current speed, river width, downstream drift, buddy system, ISOMAT and poncho and pack rafts, single-rope bridge, knots). Use when someone must survive in open water, abandon a ship or aircraft over water, cross a river or water obstacle, perform a water rescue, or treat a water casualty. Note: an erratum dated 29 October 2021 renumbered MCRP 8-10B.6 to MCRP 7-20B.5, and the source file hosted for this entry is byte-identical to the file hosted for MCRP 7-20B — the two skills cover the same text; see also the MCRP 7-20B, MCRP 8-10B.6, and MCRP 3-02C water-survival skills.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
