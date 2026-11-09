@@ -1,0 +1,10 @@
+name: fm_21_22_watermanship
+title: FM 21-22 Watermanship
+description: 'FM 21-22 Watermanship (War Department, 25 April 1944, 156 pages): WWII Army watermanship — military swimming in full clothing and equipment, submerging and bobbing, the back, jelly-fish, and prone floats, dog paddle, breast stroke, and treading water, energy conservation and panic control in the water, kapok and cork life jackets and their wear rules, life-preserver light and whistle, abandon-ship stations, drills, and conduct, lifeboat and raft operation, living aboard life craft, water discipline and rationing, first aid at sea including the Schaefer method, blast concussion injury, and defense against sharks, barracuda, sting rays, saw-fish, and moray eels, plus landing-craft safety and river-crossing procedure in assault and storm boats. Use when asked how to stay afloat and survive after a shipwreck, how to swim in uniform or with equipment, how to abandon ship, how to live aboard a lifeboat or raft, how to cross a river under combat conditions, or how to deal with dangerous water animals. HISTORIC 1944 doctrine: procedures and equipment are dated — current water survival is governed by MCRP 3-02F and ATP 3-50.21, and modern CPR supersedes the 1944 Schaefer method.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

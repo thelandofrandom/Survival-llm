@@ -1,0 +1,10 @@
+name: fm_70_10_mountain_operations_1944
+title: FM 70-10 Mountain Operations (1944)
+description: 'FM 70-10 Mountain Operations (War Department, December 1944, 253 pages): WWII Army mountain warfare — general considerations (terrain, weather, decentralized command, tactics, logistics measured in time), troop movements and marches, security, bivouacs, offensive and defensive combat, employment of the arms and services, conditioning and acclimatization (10 to 14 days above 8,000 feet, water and salt balance), military rock-climbing (mountain walking, balance climbing, three points of support, pull, push, friction, and cross-pressure holds, the lie-back and chimney, the 45-degree slab limit, half-inch footholds), mountain stream crossings (early morning, widest point, four abreast, drag the legs), weather determinants and prediction and cloud types, snow classification, avalanches and cornices (24-degree danger angle, dry snow, snow cushions, and wind slabs), movement over snow, ice, and glaciers, administration, and communications, plus a glossary of climbing terms. Use when operating, training, or climbing in mountains, planning mountain marches or attacks, learning rock-climbing technique, reading avalanche terrain, forecasting mountain weather, or crossing mountain streams. HISTORIC 1944 doctrine: weapons, transport, and climbing equipment are dated — current mountain references are TC 3-97.61 (2025), ATP 3-90.97, and MCTP 12-10A, which govern.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

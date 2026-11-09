@@ -1,0 +1,10 @@
+name: fm_21_15_clothing_equipment
+title: FM 21-15 Individual Clothing and Equipment
+description: 'FM 21-15 Individual Clothing and Equipment (War Department, April 1945, 93 pages): WWII Army individual kit — soldier responsibility for issued clothing and equipment, care of clothing (repair, mildew and moths, cleaning and spot removal, pressing, waterproof and water-repellent clothing, the helmet, socks), care of leather (breaking in boots, dubbing once a week or twice a week in wet or extremely dry climates, cleaning, repair thresholds), harness and saddlery, care of metal, horse covers and saddle blankets, web equipment, canvas, wood, mess equipment, canteen, and knives, bivouac equipment (the shelter tent, 43-inch ridge height, two-man 5-minute pitch, woolen sleeping bag, mosquito bar), and assembling and packing equipment (duffel bag, blanket roll and sleeping-bag roll with the 10-inch envelope fold, haversack M-1928, canvas field bag M-1936, rucksack, jungle pack, field pack, cargo and combat field pack, packboard, packing on horseback), plus display of basic equipment for formal inspection. Use when asked how to care for clothing, boots, leather, or web gear, how to pack a field pack or roll a blanket or sleeping bag, how to pitch a shelter tent, or how to lay out kit for inspection. HISTORIC 1945 doctrine: the kit, materials, and treatments are WWII-era — current individual equipment and packing guidance governs.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

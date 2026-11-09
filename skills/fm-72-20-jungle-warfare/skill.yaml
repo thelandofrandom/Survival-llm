@@ -1,0 +1,10 @@
+name: fm_72_20_jungle_warfare
+title: FM 72-20 Jungle Warfare
+description: 'FM 72-20 Jungle Warfare (War Department, 27 October 1944, 146 pages): WWII Army jungle fighting — jungle terrain, vegetation, weather, and wildlife, the effect of the jungle on troops (fatigue as the outstanding effect) and on operations, health, hygiene, and sanitation including malaria, dysentery, scrub typhus, and water purification (boil 5 minutes, halazone and calcium hypochlorite doses), training for jungle service, jungle weapons (rifle, submachine gun, hand grenades — five or six per rifleman — machete, mortars), jungle clothing and equipment, practical hints for jungle living (off-the-ground hammocks and jungle beds, dry ready-to-eat rations, waterproof food bags), dealings with native inhabitants, and jungle operations: marches and bivouacs, attack, defense, patrols, special operations, supply, evacuation, and communication, plus appendices on native plants and the jungle machete. Use when operating or training in jungle or tropical forest, preventing jungle disease, planning jungle marches, bivouacs, attacks, or patrols, or studying WWII Pacific jungle fighting. HISTORIC 1944 doctrine: weapons, rations, insecticides, and medical treatments are dated — the current jungle reference is MCTP 12-10C / ATP 3-90.98 (2020), which governs.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

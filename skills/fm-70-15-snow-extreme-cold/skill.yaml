@@ -1,0 +1,10 @@
+name: fm_70_15_snow_extreme_cold
+title: FM 70-15 Operations in Snow and Extreme Cold
+description: 'FM 70-15 Operations in Snow and Extreme Cold (War Department, November 1944, 264 pages): WWII Army cold-weather operations — the four major problems (keeping men and animals warm, moving troops across snow and ice, transporting and preserving supplies, preventing weapon and equipment malfunction), cold-weather rations and nutrition (fat as the cold-weather fuel, scurvy and beriberi), water from ice and snow and the canteen rules, clothing and the insulation principle (trapped air, layers over bulk, perspiration control), shelter and heat (snow shelter trench, lean-to, tents, igloos), camp siting and making camp, snowshoes, skiing, oversnow vehicles, animal transport, packs and sleeping equipment, special care of weapons and equipment (condensation, winterization below 20 degrees below zero), and tactical operations in snow and extreme cold. Use when operating, training, or surviving in snow and extreme cold, planning cold-weather shelter and camps, keeping weapons and vehicles working in the cold, or studying WWII winter warfare. NOTE: the vault lists this manual under 1941, but the PDF itself is dated November 1944 and supersedes FM 31-15 of 1941 — the 1941 date appears to be an error. HISTORIC 1940s doctrine: equipment and practice are dated — current cold-weather references are ATP 3-90.96 and TC 21-3, which govern.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
