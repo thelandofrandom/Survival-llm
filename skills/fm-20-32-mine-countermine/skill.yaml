@@ -1,0 +1,10 @@
+name: fm_20_32_mine_countermine
+title: FM 20-32 Mine/Countermine Operations
+description: 'FM 20-32 Mine/Countermine Operations (Army, 29 May 1998, Change 5, 1 April 2005, 520 pages): the Army mine-warfare manual — mine mechanics and AT/AP kill, sensing, and warhead types; antihandling devices; protective, tactical, nuisance, and phony minefields; minefield marking, turnover, and inspection; scatterable mines (ADAM/RAAM, Gator, Volcano, MOPMS) with self-destruct times; the M18A1 Claymore, SLAM, and M93 Hornet; conventional US mines (M15, M19, M21, M14, M16); row mining and standard-pattern minefields; reporting and recording on DA Form 1355; countermine breaching, minefield reduction (ASTAMIDS, IVMMD, MICLIC), route and area clearance, mining in special environments, booby traps and expedient devices, safety, and mine awareness. Use when identifying a mine or minefield, planning or recording a minefield, clearing a route, or studying how mines are detected, reduced, and reported. Dated 1998/2005 manual — US antipersonnel-mine employment in it is Korea-only doctrine; check current policy and law before any use.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

@@ -21,7 +21,7 @@ This skill is a map, not the manual. Use it to answer "what does FM 21-78 cover?
 - **Resistance, escape, and SERE doctrine (current):** `sere` (AFH 10-644, *SERE Operations*, 2017).
 - **Survival, evasion, and recovery (Marine Corps):** `survival-evasion-recovery` (MCRP 3-02H).
 - **The 1958 predecessor, full text:** `fm-21-77-evasion-escape` (FM 21-77, May 1958) — the Army's first comprehensive evasion and escape manual, with complete chapters on the Code of Conduct, short- and long-range evasion, POW camp life, interrogation resistance, indoctrination, and escape from camp. Note that FM 21-77 is historic Cold War doctrine, not a substitute for FM 21-78's 1989 content.
-- **The Code of Conduct itself:** the six articles are reproduced in full in `fm-21-77-evasion-escape` (SKILL.md §2 and `references/code-of-conduct-pow-camp.md`).
+- **The Code of Conduct itself:** the six articles are reproduced in full in `fm-21-77-evasion-escape` (SKILL.md §2 and `../../fm-21-77-evasion-escape/references/code-of-conduct-pow-camp.md`).
 
 ## What Not to Do
 
