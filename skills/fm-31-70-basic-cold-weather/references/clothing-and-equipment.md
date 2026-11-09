@@ -1,0 +1,37 @@
+# Clothing and Equipment — FM 31-70
+
+## Cold-Wet and Cold-Dry Conditions
+
+The use of cold weather clothing is affected by two types of weather conditions: wet and dry, amplified by humidity coupled with temperature and wind velocity.
+
+- **Cold-wet** conditions occur when temperatures are near freezing and variations in day and night temperatures cause alternate freezing and thawing, often accompanied by rain and wet snow, making the ground muddy and slushy. Troops wear a water-repellent, wind-resistant outer layer and inner layers with sufficient insulation for moderately cold weather (above 14°F).
+- **Cold-dry** conditions occur when average temperatures are lower than 14°F. The ground is usually frozen and snow is usually dry, in fine crystals. Strong winds cause low temperatures to seem colder and increase the need for protection of the entire body (windchill). Troops need additional insulating layers, particularly when entering static situations after strenuous exercise.
+
+What is moderately cold to one person may be extremely cold to another, and windchill must always be considered — a moderate cold can change momentarily to extreme cold with high winds. Commanders should use type loads for planning only and adjust them to fit a given situation. Because of differences in individual metabolism, commanders must not be arbitrary in delineating strict uniform requirements, but must allow some personal choice of undergarments.
+
+## Principles of Clothing Design
+
+**Insulation.** Any material that resists the transmittance of heat is an insulating material. Dry air is an excellent insulator. Woolen cloth contains thousands of tiny pockets within its fibers; these air pockets trap air warmed by the body and hold it close to the skin. Fur provides warmth the same way — warm, still air trapped in the hair and kept close to the body.
+
+**Layer principle.** Several layers of medium-weight clothing provide more warmth than one heavy garment, even if the single heavy garment is as thick as the combined layers — the effect comes from the several thick layers of air trapped between the layers. The layers are of different design: winter underwear is most porous with many air pockets; outer garments are windproof and water-repellent to keep cold outside air from the warmed inside air. The layer principle allows maximum freedom of action and rapid adjustment through a wide range of temperatures and activities.
+
+**Ventilation.** Perspiration fills the air spaces of clothing with moisture-laden air and reduces insulating qualities; as perspiration evaporates it cools the body just as water evaporating from a wet canteen cover cools the water in the canteen. Cold weather clothing is designed so the neck, waist, hip, sleeve, and ankle fastenings can be opened or closed to provide ventilation. The body is a house and the openings are windows — open at opposite ends and cross-draft ventilation results. If ventilation is excessive, open only the neck to allow warm air to escape without permitting complete circulation.
+
+## C-O-L-D: The Five Rules of Keeping Warm
+
+1. **Keep clothing Clean.** Dirt and grease mat the fibers, crush the air pockets, and destroy insulation; grease also makes clothing more flammable. Underwear requires the closest attention because it becomes soiled sooner. Light cotton underwear may be worn beneath winter underwear to absorb body oils and lengthen the interval between washings. Wash winter underwear (50/50 cotton/wool) in lukewarm water — hot water injures wool fibers and causes shrinkage; synthetic detergents are more soluble in cool water and prevent hard-water scum. Rinse all soap or detergent out of outer garments, since residue lessens water-shedding quality. All outer garments of the Cold Weather Clothing System are washable with laundry instruction labels attached. If washing is not possible, dry rubbing and airing remove some dirt and body oils.
+2. **Avoid Overheating.** Overheating causes perspiration, which dampens clothing, lessens insulation, and cools the body further as it evaporates. When indoors, wear a minimum of clothing and do not overheat the shelter. Outdoors, adjust clothing by ventilating, removing an inner layer, removing heavy mittens, throwing back the parka hood, or changing to lighter head cover. The head and hands, richly supplied with blood, act as efficient heat dissipators. It is better to be slightly chilly than excessively warm.
+3. **Wear clothing Loose and in layers.** Tight clothing and footgear restrict blood circulation and invite cold injury. Wearing more socks than is correct for the footgear makes the boot fit too tightly; a field jacket that fits snugly over a wool shirt is too tight when a liner is also worn. Tight garments also lessen the volume of trapped air layers and reduce insulation and ventilation.
+4. **Keep clothing Dry.** Moisture soaks in from two directions: inside (perspiration) and outside (melting snow and frost). Brush or shake snow from uniforms before entering heated shelters — do not rub it off, which works it into the fabric. Damp mittens and socks may be hung on the pack on the march; wind and sun will help dry them in freezing temperatures. Damp socks or mittens may be placed unfolded near the body where body heat dries them. In bivouac, hang damp clothing inside the tent near the top on drying lines or improvised racks. Clothing and footwear should not be dried close to a heat source; leather articles, especially boots, must be dried slowly — if boots cannot be dried otherwise, place them between the sleeping bag and liner.
+
+## The Uniforms (Period Issue Items)
+
+**Cold-wet uniform** — undershirt and drawers, men's 50 cotton / 50 wool; socks, wool cushion sole, OG 408, stretch type; suspenders; trousers, cotton nylon, water-repellent; shirt, wool nylon, OG; parka, cotton nylon, with nylon quilted liner; glove shells (leather black with wool/nylon knit inserts) or mitten shells, trigger finger, or arctic mitten set, gauntlet style with leather palm; hood, winter, cotton and nylon oxford, OG 107, with drawcord and fur; poncho, coated nylon twill, OG 207. Layers: (1) inner layer — underwear; (2) intermediate layer — wool OG shirt; (3) outer layer — water-repellent, wind-resistant shell.
+
+**Cold-dry uniform** — same inner layer, with additional insulating layers for temperatures below 14°F, including the parka and liner as the outer layer and heavier intermediate layers. Footgear follows the same layer logic: layers of socks inside insulated boots with a release valve, never so many socks that the boot fits tightly.
+
+**Weights and type loads (Appendix E).** The weights shown are for planning; type loads are given for moderately cold weather (approximately 15°F to −15°F) and include a supplemental existence load — items not immediately needed, normally carried in the duffle bag on unit transportation: undershirt and drawers 50/50, cushion sole socks (3 pair), cotton nylon trousers, wool nylon shirt, parka and liner, arctic mitten set.
+
+## Environmental Effects (Appendix F)
+
+The windchill chart (fig. F-1) shows the cooling power of wind on exposed flesh. Environmental effects on weapons are covered in Appendix D: lubricants thicken, metals contract, and weapons must be stripped completely and lubricated with LAW (Lubricant, Semi-Fluid, MIL-L-46000A) — the Change 1 correction. Extreme cold lowers the efficiency of batteries and all electrical equipment.

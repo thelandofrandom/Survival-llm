@@ -1,0 +1,10 @@
+name: fm_3_97_6_mountain_operations
+title: FM 3-97.6 Mountain Operations
+description: 'FM 3-97.6 Mountain Operations (Army, November 2000, 140 pages): the combined-arms mountain operations manual — terrain and mountain weather, altitude bands and hypoxia, AMS/HAPE/HACE recognition and treatment, staged and graded acclimatization, cold injuries, nutrition (4,500+ calories) and dehydration, command and control, firepower, maneuver with special purpose teams (assault climbers, installation teams, evacuation teams), motti tactics, reverse slope defense, logistics, and field weather forecasting. Use when planning or conducting operations in mountains; when asked about altitude sickness, acclimatization schedules, mountain weather forecasting, avalanche risk, or mountain maneuver and evacuation. Note: superseded in spirit for current doctrine by TC 3-97.61 (2025) and ATP 3-90.97 — follow the current manuals where they differ; use FM 3-97.6 for its complete combined-arms treatment and its altitude-illness and weather-forecasting appendices.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

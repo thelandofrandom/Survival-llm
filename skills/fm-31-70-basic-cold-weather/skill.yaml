@@ -1,0 +1,10 @@
+name: fm_31_70_basic_cold_weather
+title: FM 31-70 Basic Cold Weather Manual
+description: 'FM 31-70 Basic Cold Weather Manual (Army, April 1968, Change 1 December 1968, 203 pages): the foundation Army cold-weather manual — the C-O-L-D clothing rules and layer principle, cold-wet vs cold-dry conditions, the cold-wet and cold-dry uniforms, small unit living and snow shelters, water from snow and ice (17:1 snow-to-water ratio), dehydration, frostbite (superficial vs deep), trenchfoot and immersion foot, shock, sunburn, snow blindness, carbon monoxide, skiing and snowshoeing, movement and navigation, combat techniques, weapons in the cold, and small unit leadership. Use when asked about cold-weather clothing and layering, preventing or treating frostbite and trenchfoot, melting snow for water, building snow shelters, skiing or snowshoeing, or operating a small unit in the cold. Note: 1968 equipment and weapons details are obsolete — current doctrine is ATP 3-90.96 (2025) and TC 21-3; follow the current manuals where they differ.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

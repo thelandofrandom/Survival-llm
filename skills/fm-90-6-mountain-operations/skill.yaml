@@ -1,0 +1,10 @@
+name: fm_90_6_mountain_operations
+title: FM 90-6 Mountain Operations
+description: 'FM 90-6 Mountain Operations (Army, June 1980, 152 pages): the Cold War mountain operations manual — the mountain environment and its effects on personnel and equipment, acclimatization above 2,500 meters, behavioral effects of altitude, sunburn and snow blindness, frostbite and windchill, nutrition, dehydration (1 quart every 3 hours), salt, preparation and training, attack and defense in mountains, combat support, combat service support, employment of mountaineers, and a detailed avalanche appendix (25-degree minimum, 35-degree critical zone, the World War I Tyrol record of 40,000 avalanche dead). Use when asked about 1980-era mountain doctrine, altitude acclimatization, cold injury, or avalanche causes, terrain, and triggers; or when comparing historical mountain doctrine with current practice. Note: superseded by FM 3-97.6 (2000), and in spirit by TC 3-97.61 (2025) and ATP 3-90.97 — follow the current manuals where they differ.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

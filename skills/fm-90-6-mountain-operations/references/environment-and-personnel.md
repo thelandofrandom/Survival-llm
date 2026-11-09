@@ -1,0 +1,39 @@
+# Environment and Personnel — FM 90-6
+
+## Terrain and Climate
+
+Mountains present broken, steep ground, thin air, intense solar radiation, and violent, rapidly changing weather. Maximum cloudiness and precipitation generally occur near 1,800 meters. Temperature falls with height; wind increases; snow and ice persist at altitude in every season. The environment affects every tactical function — objectives, mobility, maneuver, observation and fields of fire, reconnaissance and security, cover and concealment, assembly areas and bivouac sites, and command and control.
+
+## Conditioning and Acclimatization
+
+If soldiers are subjected to heavy work following rapid transport from sea level to 4,200 meters, it is likely that 60 percent of them will become ill and may become ineffective. After months in a high-altitude environment, 70 percent of sea-level work capacity standards may be attained by acclimatized troops. **For operations above 2,500 meters, acclimatization is required.** A training program of graduated physical exercises of various types, including marches and climbs requiring increased stamina and endurance, is mandatory. With such training, men acquire increased confidence and ability to safely negotiate terrain they had previously considered impassable.
+
+There are two different types of acclimatization: psychological as well as physiological adjustment is required. Complete acclimatization occurs only when personnel realize their own limitations and those of their equipment.
+
+## Behavioral Effects
+
+High altitude often affects people mentally. In unacclimatized personnel: increased errors in performing simple mental arithmetic; decreased ability for sustained concentration; deterioration of memory; decreased vigilance; increased irritability. Self-evaluation is also impaired, and during the first few days at high altitude leaders will find it difficult to maintain coordination and discipline. Errors in judgment that would never occur at lower altitudes are common. Many psychological adjustments are due to preconceived notions about the supposedly harmful effects of high altitudes; they are made easier by a well-planned period of acclimatization and conditioning, coupled with educational programs on high-altitude effects.
+
+## Sun, Snow, and Wind
+
+**Sunburn.** Ultraviolet exposure at high elevations is greater than at sea level because of the clear atmosphere and reflection from glaciers and snowfields. Exposure should be gradual to permit natural tanning and thickening of the skin; for some light-skinned individuals adequate tanning is impossible. Prevention requires frequent and liberal application of Army-issued sunscreen lotion, but sweating and wiping of the neck and face tend to remove it. The nose, cheeks, neck, and ears are most frequently sunburned; sunburn can result in painful blistering and can lead to other forms of illness.
+
+**Snow blindness.** Snow reflects about 75 percent of the sun's rays. During the actual period of exposure there is no sensation other than brightness to warn the soldier; when symptoms occur, moving and blinking of the eyes is extremely painful and exposure to normal light may also cause pain. A severe case may be completely disabling for several days. Prevention: consistent use of proper sunglasses or goggles, large and sufficiently curved to block most reflected light from below and from the sides — aviator sunglasses are not adequate. Improvised slitted glasses can be made from cardboard, thin wood, tree bark, or any other available material.
+
+**Frostbite.** The freezing of some part of the body caused by exposure to extreme temperatures is a constant hazard when the wind is strong. High altitude increases the chance of frostbite by reducing blood flow to the extremities. Soldiers must wear proper clothing, keep clothing and bodies dry, and avoid excessive perspiration — for heavy work, remove outer layers and replace them as soon as work stops. The face must be protected in high winds and when exposed to aircraft propeller or rotor blast. The buddy system is one of the prime preventers of frostbite: soldiers must watch each other for signs of frostbite and provide mutual aid if frostbite occurs.
+
+**Windchill.** The manual's windchill chart shows the coupling effect of wind and temperature: at high wind speeds flesh may freeze within 1 minute, and in the greatest-danger zone within 30 seconds. Commanders at all levels should take this effect into consideration when planning or conducting operations under such adverse conditions.
+
+## Nutrition, Dehydration, and Salt
+
+**Nutrition.** At least one hot meal per day should be served; an increase in rations may be desirable. Provide palatable foods such as soup, fruits, fruit juice, sweetened beverages, and candy. Dehydrated soups make an excellent ration supplement, especially in cold/wet climates. Loss of weight during the first few days is characteristic because of loss of appetite, dehydration, and changes in metabolism. Below 4,500 meters, carbohydrate foods are preferred to noncarbohydrate foods. Increased fatigue from working at high altitudes may cause soldiers to be disinterested in heating combat rations; commanders should see that heat tablets are issued with combat rations or that natural materials for heating rations are used.
+
+**Dehydration.** Thirst is not an adequate warning — the sensation may not be felt until there is a body deficiency of 1 to 2 quarts of water, and it may be blunted at high elevation. Very dark urine is often a warning. Soldiers do not always drink their water requirement readily and may require encouragement or coercion to drink more than they think necessary: 1 quart every 3 hours. Approximately 75 percent of the human body is fluid. A loss of 2 quarts of body fluid (2.5 percent of body weight) decreases efficiency by 25 percent, and a loss of 12 quarts (15 percent of body weight) is usually fatal. Snow, mountain streams, and lakes may provide water, but purification must be accomplished no matter how pure or clear the snow or water appears. It is better to take smaller quantities of water often than large quantities occasionally. Soldiers frequently do not realize that they sweat heavily in cold weather and when the humidity is low.
+
+**Salt.** Salt in correct proportions is vital to the human body. The more an individual sweats, the more salt he loses. The issue ration has enough salt for a soldier drinking up to 4 quarts of water per day. Unacclimatized soldiers need additional salt during their first few days of exposure, and all soldiers need additional salt when sweating heavily. Extra salt should only be taken in proportion to the available extra water, and the quantity taken must be strictly controlled according to medical advice — salt in excess of body requirements may cause increased thirst, sickness, and can be dangerous. (Note: this salt guidance reflects 1980 practice; current doctrine emphasizes water and food intake and medical direction for electrolyte replacement.)
+
+## Hygiene, Sanitation, and Equipment
+
+Weekly bathing is desirable; in freezing conditions latrines cannot be dug and sanitation discipline must be improvised. Cold, wet, dirty clothing invites frostbite and lice; foot care is a daily command responsibility.
+
+Vehicles lose power and suffer thickened lubricants; batteries lose capacity in the cold; communications, fire control, and other precision equipment are degraded by cold, moisture, and altitude. Clothing and equipment must be selected for the cold-wet or cold-dry condition (Appendix B lists the cold wet uniform, cold dry uniform, and mountain uniform, plus individual and organizational cold weather and mountain equipment and type loads). Acclimatization to the cold, extensive training, and disciplined maintenance are the counters.
