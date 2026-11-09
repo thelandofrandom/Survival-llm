@@ -1,0 +1,10 @@
+name: mcwp_3_35_6_desert_operations
+title: MCWP 3-35.6 Desert Operations
+description: 'MCWP 3-35.6 Desert Operations (Marine Corps, 15 September 2004, 223 pages; formerly FMFM 7-27): the Marine desert operations manual — the three desert terrain types, lines of communication and key terrain, heat and acclimatization (4–5 days significant, 7–14 full), water discipline (a quart an hour, over two at higher temperatures; 9 quarts a day to survive, 5 gallons recommended), heat exhaustion and heatstroke, effects of sand and heat on vehicles, weapons, batteries, and optics, preparations and commander''s questions, desert navigation and maps, mobility and night movement, offensive and defensive operations, combat service support, and Appendix G water usage with work/rest limits by heat condition. Use when planning or operating in desert conditions, for desert water and heat discipline, or for desert tactics and sustainment. NOTE: 2004 manual; the current Marine desert reference is MCTP 12-10D (2021), already a skill in this vault.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
