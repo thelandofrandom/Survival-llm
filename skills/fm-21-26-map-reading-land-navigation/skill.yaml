@@ -1,0 +1,10 @@
+name: fm_21_26_map_reading_land_navigation
+title: FM 21-26 Map Reading and Land Navigation
+description: 'FM 21-26 Map Reading and Land Navigation (U.S. Army, 7 May 1993, 176 pages): the 1993 Army land navigation course — training strategy, maps and marginal information, map symbols and colors, military grids and the Military Grid Reference System, scale and distance measurement, direction and azimuths, the declination diagram and G-M angle, overlays, aerial photographs, navigation equipment and methods including the lensatic and M2 compasses, field-expedient direction finding, elevation and relief, contour lines and terrain features, terrain association, mounted land navigation, navigation in desert, mountain, jungle, and arctic terrain, unit sustainment, and appendices on field sketching, map folding, orienteering, foreign maps, and the Global Positioning System. Use when reading a topographic map, plotting grid coordinates, converting between grid and magnetic azimuths, finding your position by resection or intersection, navigating by terrain association or dead reckoning, or teaching a land navigation course. Note: the 1993 predecessor of FM 3-25.26 Map Reading and Land Navigation (July 2001), already a skill as land-navigation — use the 2001 manual as the newer treatment where the two differ.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

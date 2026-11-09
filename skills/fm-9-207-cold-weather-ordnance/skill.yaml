@@ -1,0 +1,10 @@
+name: fm_9_207_cold_weather_ordnance
+title: FM 9-207 Cold Weather Ordnance
+description: 'FM 9-207 Operations and Maintenance of Ordnance Materiel in Cold Weather (U.S. Army / U.S. Air Force, 20 March 1998, 113 pages; also TO 36-1-40): how cold weather attacks weapons, vehicles, and equipment, and how to keep them working — effects of cold on metals, rubber, plastics, tires, batteries, and lubricants; levels of cold-weather operation; preparing vehicles for operation including winterization, antifreeze, and batteries; starting procedures (ether, slave starts, tow starts); operating and maintenance procedures in the cold; weapons, munitions, and fire control equipment including small arms lubrication changeover, artillery recoil and equilibrator care, mortars, and cold-round range loss; communication and information systems equipment; plus appendices on cold-weather POL products and materials, a sample cold-weather SOP, and NBC effects in cold weather. Use when operating or maintaining vehicles, weapons, or radios in sub-zero temperatures; when winterizing equipment; or when diagnosing cold-related stoppages, battery failures, and lubricant problems. Note: a 1998 manual — verify lubricant, antifreeze, and battery specifications against the current technical manual for the specific equipment, since products and NSNs have changed.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

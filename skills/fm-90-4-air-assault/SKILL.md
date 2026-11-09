@@ -2,7 +2,7 @@
 
 **Source:** FM 90-4 *Air Assault Operations*, Department of the Army, March 1987 (supersedes FM 90-4, 8 October 1980). 223 pages. **Status: historic doctrine** — superseded by later air assault doctrine (FM 3-99 and subsequent publications); use for understanding the 1987 doctrinal framework, not as current tactics, techniques, and procedures.
 
-## What This Manual Covers
+## Purpose
 
 Air assault operations in the AirLand Battle; the air assault task force (AATF) — its organization, capabilities, limitations, and vulnerabilities; preparation for combat; the five plans plus the air mission briefing; combat operations; combat support and combat service support; and the conduct of an air assault operation, planning forms, PZ and LZ operations, training, airspace management, and moving vehicle-mounted TOW by helicopter.
 

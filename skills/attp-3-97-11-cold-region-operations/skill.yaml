@@ -1,0 +1,10 @@
+name: attp_3_97_11_cold_region_operations
+title: ATTP 3-97.11 Cold Region Operations
+description: 'ATTP 3-97.11 Cold Region Operations (U.S. Army / U.S. Marine Corps, 28 January 2011, 114 pages; also MCRP 3-35.1D): joint Army–Marine Corps tactics, techniques, and procedures for fighting in cold regions — defining cold regions and their arctic, subarctic, and temperate subregions, cold temperature and snow categories, cold-weather phenomena (ice fog, blizzard, whiteout, grayout, temperature inversions, chinook winds), offensive, defensive, retrograde, stability, and civil support operations in the cold, personnel considerations and cold injuries (hypothermia, immersion syndrome, frostbite, wind chill), effects of cold on weapons and communications, movement by individuals and vehicles, sustainment, and applying combat power. Use when planning or conducting operations in snow and extreme cold, assessing frostbite or hypothermia risk, keeping weapons and vehicles working below freezing, or moving troops and supplies over snow and ice. Note: superseded as current Army doctrine by ATP 3-90.96 Arctic and Extreme Cold Weather Operations (2025, Change 2), already a skill as atp-3-90-96-arctic-cold-weather; use ATTP 3-97.11 for its compact cold-region TTPs and injury detail where it does not conflict.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
