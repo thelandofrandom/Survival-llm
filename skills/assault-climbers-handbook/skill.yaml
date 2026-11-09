@@ -1,0 +1,10 @@
+name: assault_climbers_handbook
+title: Assault Climbers Handbook
+description: 'Assault Climbers Handbook (U.S. Marine Corps Mountain Warfare Training Center, Summer 2002, 296 pages): the Marine assault climber course — mountain safety and the BE SAFE MARINE principles, the Marine Assault Climber''s Kit (MACK), nomenclature and care of ropes, carabiners and protection, rope management and the knot classes with relative knot strengths, natural and artificial anchors, mechanical advantage systems (1:1, 2:1, 3:1, 9:1), the one-rope bridge, A-frames, vertical hauling lines, suspension traverse, rappelling, balance climbing, top roping, sit harness, placing protection, belaying for party climbing, fall factor and impact force, military aid climbing, rescue techniques, steep earth and tree climbing, fixed rope installations, cliff reconnaissance and the cliff report, and the cliff assault sequence. Use when planning or teaching a rope installation, a river or gap crossing, a rappel, a party climb, a casualty evacuation over steep ground, or a cliff assault; or when asked about assault climber knots, anchors, mechanical advantage, or the MACK. Note: a 2002 Marine Corps course handbook, not current Army doctrine — the current Army mountaineering reference is TC 3-97.61 (2025), already a skill as military-mountaineering.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

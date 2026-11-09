@@ -1,0 +1,10 @@
+name: fm_3_97_61_military_mountaineering_2002
+title: FM 3-97.61 Military Mountaineering (2002)
+description: 'FM 3-97.61 Military Mountaineering (U.S. Army, 26 August 2002, 328 pages): the 2002 Army mountaineering manual — mountain terrain, rock types and route classification (Yosemite Decimal System), mountain weather and hazards including avalanches, mountain living and acclimatization, altitude illness (AMS, HAPE, HACE), cold and heat injuries, mountaineering equipment, rope management and 26 knots, anchors, climbing technique, belaying and lead climbing, rope installations and rappelling, one-rope bridges and hauling systems, mountain walking, stream crossing, movement over snow and ice, glacier travel and crevasse rescue, and mountain rescue and evacuation. Use when planning movement or operations in mountains, assessing a route or avalanche hazard, treating altitude illness, building anchors or rope systems, or crossing snow, ice, glaciers, or mountain streams. Note: the 2002 edition is superseded — the current edition is TC 3-97.61 (November 2025), already a skill as military-mountaineering; use the 2002 manual for its deeper weather, rock-classification, and knot detail where it does not conflict with the current edition.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

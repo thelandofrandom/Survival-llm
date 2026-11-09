@@ -1,0 +1,10 @@
+name: fm_20_60_battlefield_illumination
+title: FM 20-60 Battlefield Illumination
+description: 'FM 20-60 Battlefield Illumination (Army, January 1970, 79 pages): the principles and means of night battlefield illumination — purposes in offense and defense, close-in/intermediate/deep areas and artificial moonlight vs artificial daylight, ground signals (M127A1), Mark 1 illuminating grenades, M49 trip flares, artillery and mortar illuminating shells with one-, two- and four-gun adjustment, xenon searchlights in direct and indirect roles, Mk 24 aircraft flares and the AVQ-5 airborne light set, naval illuminating shell, improvised illuminators including the Husch flare, selection factors, limiting factors, vulnerability to countermeasures, and the carrier-debris safety hazard. Use when planning night operations, choosing an illumination means, adjusting illuminating shell fire, or studying how searchlights, flares, and shells light a battlefield. Historic 1970 manual — equipment data is a historical record, not a current inventory.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
