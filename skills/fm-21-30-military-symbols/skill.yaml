@@ -1,0 +1,10 @@
+name: fm_21_30_military_symbols
+title: FM 21-30 Military Symbols
+description: 'FM 21-30 Conventional Signs, Military Symbols, and Abbreviations (War Department, November 1941, 70 pages): the WWII Army standard for reading and drawing military maps — general topographic symbols and map lettering conventions, air navigation map symbols, military symbols with the blue-friendly/red-enemy color rule, unit-designation placement rules, echelon marks from squad to army, basic symbols for units, weapons, boundaries and lines, worked symbol combinations, and the authorized general and military abbreviation lists with staff designations G-1 through G-4 and S-1 through S-4. Use when decoding a WWII-era map, overlay, or operations order; when asked what a 1941 unit symbol, echelon tick, or abbreviation means; or when researching how U.S. military symbology worked before the modern APP-6 system. Note: historic — modern symbology differs substantially, and the drawn symbols do not survive in plain-text extraction, so consult the PDF for exact drawn forms.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

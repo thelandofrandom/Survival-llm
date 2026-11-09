@@ -1,0 +1,10 @@
+name: fm_20_15_tents
+title: FM 20-15 Tents and Tent Pitching
+description: 'FM 20-15 Tents and Tent Pitching (War Department, February 1945, 81 pages, with Change 1, 1947): the WWII Army tent manual — shelter halves old and new type with formal pitching and striking, double shelter tents, two-man mountain tent and jungle hammock, wall and storage tents, squad, pyramidal, command post, hospital ward, assembly, maintenance and surgical truck tents, tent site selection, pitching in snow, trenching and drainage, care of tentage, rain shrinkage and wind rules for lines, fire and mildew prevention, cement and sewn repairs, tent heating and expedient shelter warmers, lines, pins, poles, flies, sod cloths, floors, and ventilation. Use when pitching or caring for a canvas tent, choosing a camp site, digging a tent trench, preventing mildew, or researching WWII field shelter. Note: historic equipment — 1940s canvas tents and stock numbers — but the site, drainage, and care principles are durable.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

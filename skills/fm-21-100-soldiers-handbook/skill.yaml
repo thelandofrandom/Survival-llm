@@ -1,0 +1,10 @@
+name: fm_21_100_soldiers_handbook
+title: FM 21-100 Soldier's Handbook
+description: 'FM 21-100 Soldier''s Handbook (War Department, December 1940, printed 1941, 262 pages): the WWII handbook for the newly enrolled soldier — discipline and military courtesy, insignia and Army organization, clothing, the M1 rifle and M1911 pistol with care and cleaning, gas mask, field equipment and the infantry pack, drill without and with arms, squad and platoon drill, interior guard duty, marches camps and bivouacs with foot care, prismatic compass and map reading, security and protection, military sanitation and first aid, the ration, pay and allowances, and the last will and testament. Use when asked what a WWII soldier was taught, how to march and camp the 1941 way, how to use a prismatic compass, or what the durable basics of soldiering are; or when researching period drill, guard duty, and field sanitation. Note: historic — weapons, pay, the Articles of War, and several first-aid procedures are superseded; follow current doctrine (TCCC, FM 21-18) for medical and marching practice.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

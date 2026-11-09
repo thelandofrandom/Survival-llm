@@ -1,0 +1,10 @@
+name: fm_21_18_foot_marches
+title: FM 21-18 Foot Marches
+description: 'FM 21-18 Foot Marches (Department of the Army, June 1990, 130 pages): the 1990 Army guide to foot marches — march mission, types, and historical examples; tactical considerations, march and water discipline, acclimatization and morale; movement planning with column organization, march rates, time-distance and pass-time computations, road movement tables and strip maps; execution, security, halts, night marches, safety, and duties from company commander to pace setter; forced march maxima and a worked 52-km schedule; soldier load management with the 48-pound fighting load and 72-pound approach march load limits, CLOHE/SLOHE, training, and the foot-care appendix covering blisters, frostbite, trenchfoot, immersion foot, and stress fractures. Use when planning or leading a foot march, computing march times and pass times, setting rates and halt schedules, managing soldier loads, or treating march foot injuries. Note: superseded for current doctrine by ATP 3-21.18 (2025), already a skill — use FM 21-18 for its deeper planning detail and worked examples.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
