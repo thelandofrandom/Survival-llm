@@ -1,0 +1,10 @@
+name: atp_3_21_50_mountain_cold_weather
+title: Infantry Small-Unit Mountain and Cold Weather Operations
+description: 'ATP 3-21.50 Infantry Small-Unit Mountain and Cold Weather Operations (Army, Jul 2025): small-unit fighting and moving in mountains and extreme cold — organization and mission command in compartmented terrain, offense and defense (including reverse-slope defense), observation posts and combat outposts, dismounted movement rates in snow, soldier load echeloning, acclimatization schedules and altitude bands, cold injuries, and MEDEVAC/CASEVAC. Use when planning mountain or cold-weather infantry operations, uphill attacks, mountain defenses, or any movement above 8,000 feet.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

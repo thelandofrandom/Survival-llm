@@ -1,0 +1,10 @@
+name: mctp_12_10e_arctic_cold_weather
+title: MCTP 12-10E Arctic and Extreme Cold Weather Operations
+description: 'MCTP 12-10E Arctic and Extreme Cold Weather Operations (U.S. Marine Corps, Feb 2025): the Marine Corps'' Arctic doctrine, published jointly with ATP 3-90.96 — the polar environment, operational considerations, planning and executing Arctic operations, maneuver, fires, sustainment, protection, and training, with appendices on mobility, ice, and cold-weather injury prevention. Use when planning Marine or joint Arctic operations; when asked how Marines operate in extreme cold, how to prevent and treat cold-weather injuries, how to move, supply, and protect a force on snow and ice, or how cold changes weapons, vehicles, and aviation.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
