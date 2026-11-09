@@ -1,0 +1,10 @@
+name: mcrp_12_10a_2_winter_mountain_leader
+title: MCRP 12-10A.2 Winter Mountain Leader's Guide to Mountain Warfare
+description: 'Winter mountain warfare in snow-covered terrain — avalanche hazard assessment and transceiver search, snow tracking and antitracking, ice reconnaissance and frozen-waterway crossing, military ski equipment and waxing, over-the-snow movement and skijoring, over-the-snow casualty evacuation, weapons employment in deep snow, and snow shelters. Use when planning movement through avalanche terrain, judging whether ice will hold a person or a vehicle, building a snow cave or trench, tracking in snow, or operating on skis or snowshoes in winter mountains.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

@@ -1,0 +1,10 @@
+name: mcrp_12_10a_1_mountain_warfare_leaders_guide
+title: Small Unit Leader's Guide to Mountain Warfare
+description: 'MCRP 12-10A.1 W/CH-1 Small Unit Leader''s Guide to Mountain Warfare (Marine Corps, May 2026): the squad and platoon leader''s field book — reading mountain weather and the wind-chill formula, route selection and the eight factors, crossing streams and ice with safety swimmers, avalanche types and hazard evaluation with the 15-minute survival rule (92% within 15 min, minus 3% per minute after), movement over snow on skis and snowshoes, casualty evacuation, patrol bases in snow, and winter camouflage. Use when leading a small unit in mountains or cold weather, or for avalanche, weather-reading, water-crossing, or snow-movement questions.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
