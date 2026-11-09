@@ -1,0 +1,10 @@
+name: atp_3_21_18_foot_marches
+title: Foot Marches
+description: 'ATP 3-21.18 Foot Marches (Army, Jul 2025): moving soldiers on foot — tactical road march, approach march, and forced march; march rates and the distance-rate-time equation (4 kph planning rate, 106 steps/min, 30-inch stride); forced-march maximums (56 km/24 hr, 96 km/48 hr, 128 km/72 hr); soldier loads (fighting 60-80 lb, approach 80-100 lb, emergency 100-125 lb); foot care, blister prevention, hydration and electrolyte protocol, and march training. Use when planning any foot movement, a ruck march, load planning, or foot-care and hydration questions.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

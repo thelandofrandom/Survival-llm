@@ -1,0 +1,10 @@
+name: atp_3_90_97_mountain_cold_warfare
+title: Mountain Warfare and Cold Weather Operations
+description: 'ATP 3-90.97 Mountain Warfare and Cold Weather Operations (Army, Apr 2016): operational-level mountain and cold-region doctrine — terrain levels I-III, the time-distance formula (map distance plus one-third, 1 hr per 3 km, 1 hr per 305 m ascent / 610 m descent), dismounted movement rates, avalanches, sustainment (MRE and cold-weather ration calories, water planning factors), acclimatization timeline, aviation lift limits, fires masking, and communications degradation. Use when planning mountain operations at battalion level and above, or for sustainment, acclimatization, and terrain-level questions.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

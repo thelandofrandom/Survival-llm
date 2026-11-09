@@ -1,0 +1,10 @@
+name: mctp_12_10a_mountain_warfare
+title: Mountain Warfare
+description: 'MCTP 12-10A Mountain Warfare (Marine Corps, Jul 2024): MAGTF operations in mountains — terrain levels I-III, the time-distance formula, trail breaking (lead 2-3 pack snow over 30 cm, rotate every 15-30 min), 6,000+ calories per day with MRE/MCW/FSR values, helicopter lift limits and the 7-degree landing-zone slope limit, fires masking, and communications degradation. Use when planning Marine mountain operations, MAGTF movement, helicopter LZ selection, or cold-weather sustainment.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
