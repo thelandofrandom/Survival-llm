@@ -1,0 +1,10 @@
+name: fm_21_7_war_department_films
+title: FM 21-7 War Department Films
+description: 'FM 21-7 List of War Department Films, Film Strips, and Recognition Film Slides (War Department, January 1945, 333 pages): the master catalogue of WWII Army projected training aids as of 1 December 1944 — definitions of training films, film bulletins, combat bulletins, miscellaneous and war information films, film strips and recognition slides; the five-step instructor method (integrate, preview, introduce, show, follow up); the Fighting Men series and films required for all personnel; the film library, exchange, and circuit distribution system; and the full lists by serial number with titles, years, and running times, including combat bulletins from Cassino to Leyte, the Why We Fight series, foreign-language versions, and the subject index. Use when finding a WWII training film or film strip by subject or serial number, researching what the Army taught on film in 1944, or tracing the wartime training-film distribution system. Note: a catalogue, not a procedures manual — it lists titles, it does not teach their subjects, and the films and distribution system are historic.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
