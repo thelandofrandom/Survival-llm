@@ -1,0 +1,10 @@
+name: marine_hand_to_hand_combat
+title: Marine Hand-to-Hand Combat
+description: 'Marine Hand-to-Hand Combat (U.S. Marine Corps, NAVMC 1146-403, undated, 18 pages): a short historic illustrated Marine close-combat manual — the seven principles of hand-to-hand fighting, the vulnerable targets, the offensive-defensive stance and 14-inch footwork, forward roll and backward fall, deflecting and striking blows, throws and take-downs, breaking nine holds (wrist, choke, head lock, hammerlock, come-along), disarming a bayonet-armed opponent, and knife and club fighting. Use when asked about historic Marine hand-to-hand technique, breaking holds, bayonet disarms, or knife fighting from the manual. NOTE: the only available copy is a rough scan of a reprint and the extracted text is OCR-garbled in places, especially the contents page. Historic manual, not current doctrine — the modern Marine system is MCMAP; for current technique use the combatives skill (TC 3-25.150, 2017).'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

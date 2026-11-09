@@ -1,0 +1,10 @@
+name: fm_3_25_combatives
+title: FM 3-25 Combatives
+description: 'FM 3-25 Combatives (Army, 18 January 2002, 265 pages): the bridge edition of Army combatives — the first full statement of the dominant-position ground-fighting system (back mount, mount, guard, side control), body-positioning moves, finishing moves (rear naked choke, cross-collar choke, arm bars, guillotine), drills, takedowns and throws, strikes, rifle-bayonet and knife fighting, field-expedient weapons, standing defense against chokes, bear hugs, knives, and bayonets, and group tactics for lethal and restrictive force. Use when asked about Army hand-to-hand combat, ground fighting positions and submissions, bayonet fighting, or how combatives training is structured. NOTE: this is the same text as FM 3-25.150 (2002) — byte-identical, listed in the vault under both numbers — read either skill, not both. The current standard is TC 3-25.150 (2017); use the combatives skill for modern training.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

@@ -1,0 +1,10 @@
+name: mcrp_12_10a_mountain_warfare_2013
+title: MCRP 12-10A.1 Small Unit Leader's Guide to Mountain Warfare Operations (2013)
+description: 'MCRP 12-10A.1 Small Unit Leader''s Guide to Mountain Warfare Operations (Marine Corps, 21 May 2013, Change 1 4 April 2018, 228 pages): the small-unit leader''s reference for mountain, snow, cold-weather, and high-altitude operations — mountain weather and windchill, command and control, individual movement and the rest step, route planning and selection (contour, not azimuth; natural lines of drift), crossing water obstacles, avalanche hazard evaluation (slope angle, snowpack, weather, human factor), movement by snowshoe and sled, casualty evacuation and expedient litters, mountain patrolling, fires, logistics and Joint Precision Airdrop, mountain safety and health (4,500 calories, 3–8 quarts of water, AMS/HACE/HAPE, hypothermia, frostbite), the COLD clothing system, defensive positions, bivouac routine in snow, camouflage in snow, and mountain leader skill sets (M7A/M7B). Use when planning or leading small-unit operations in mountains, snow, or high altitude. NOTE: this is the 2013 edition (Change 1, 2018, was a gender-neutrality edit only); the newer edition is MCRP 12-10A.1 W/CH-1 (2026), already a skill in this vault.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

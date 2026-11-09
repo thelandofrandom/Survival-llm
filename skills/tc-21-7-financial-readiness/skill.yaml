@@ -1,0 +1,10 @@
+name: tc_21_7_financial_readiness
+title: TC 21-7 Personal Financial Readiness and Deployability Handbook
+description: 'TC 21-7 Personal Financial Readiness and Deployability Handbook (Army, 14 August 2003, 101 pages): the Army plain-language guide to military pay and personal finance — base pay, BAH, BAS, and other allowances, deductions and allotments (six discretionary maximum), the Thrift Savings Plan, myPay, reading the Leave and Earnings Statement, Active and Reserve Component entitlements and mobilization protections, travel claims on DD Form 1351-2, deployment financial preparation (SURE PAY, allotments, EFT, family care plans, DD Form 1337, wills), banking and credit, the Government Travel Charge Card, checking accounts, budgeting with worked single-soldier and family examples, PCS budgeting, emergency help from Army Emergency Relief and the American Red Cross, and a survey of investments. Use when asked how military pay works, how to read an LES, how to prepare finances for deployment, how to budget as a soldier or military family, or how credit and banking work for servicemembers. NOTE: 2003 figures and program details are dated — SGLI, rates, and the SSCRA (now SCRA) have all changed; the durable value is the budgeting, debt, and deployability framework.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
