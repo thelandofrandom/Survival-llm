@@ -1,0 +1,10 @@
+name: fm_90_5_jungle_operations
+title: FM 90-5 Jungle Operations
+description: 'FM 90-5 Jungle Operations, How to Fight (Army, August 1982, 191 pages): the post-Vietnam jungle fighting manual — life in the jungle and its hazards, malaria and leech precautions, heat disorders with treatment, preparation and training to deploy, the threat in jungle areas, tactical operations with the four requirements for jungle fighting, what the jungle does to weapons and fire support, helicopter, armor, mechanized infantry and combat support operations, combat service support, and ten practitioner appendices including navigation and tracking, waterborne operations, fighting positions and shelters, and adjustment of fire by sound. Use when studying how to fight in the jungle, what jungle does to weapons and communications, or the 25th Infantry Division Vietnam experience. Note: supersedes FM 31-35 (1969); current jungle doctrine is MCTP 12-10C (2020) — use FM 90-5 for its fighting doctrine and appendices.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

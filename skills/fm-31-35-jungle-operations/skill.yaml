@@ -1,0 +1,10 @@
+name: fm_31_35_jungle_operations
+title: FM 31-35 Jungle Operations
+description: 'FM 31-35 Jungle Operations (Army, September 1969, 132 pages): the Vietnam-era successor to FM 31-30 — the jungle in three regions (American, African, Oriental), the operations framework of centralized planning and decentralized execution, combat and combat support in jungle conditions, combat service support, riverine operations, stability operations, and special training requirements with jungle living, tracking, and target detection. Use when studying 1969 jungle doctrine in its most compact form, planning jungle training priorities, or comparing Vietnam-era doctrine with its 1965 predecessor and 1982 successor. Note: superseded by FM 90-5 (1982); current jungle doctrine is MCTP 12-10C (2020) — use FM 31-35 for its regional treatment, riverine and stability chapters, and training checklists.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

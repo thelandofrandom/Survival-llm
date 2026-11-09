@@ -1,0 +1,10 @@
+name: fm_31_25_desert_operations
+title: FM 31-25 Desert Operations
+description: 'FM 31-25 Desert Operations (Army, February 1972, 88 pages): the Army desert doctrine manual built on the North Africa campaign of 1942-43 — the desert environment and temperature extremes, effects of the desert on men, water requirements and discipline with quarts-per-man-per-day figures, salt tablets and 0.1 percent salt solution, two-week acclimation, heat cramps, heat exhaustion and heatstroke with treatment, sunburn, wind, sand and dust, principles of war and fundamentals of desert combat, offensive, defensive, retrograde, airmobile and counterguerrilla operations, support, and training. Use when planning desert operations, water discipline, or heat-injury prevention in arid environments. Note: supersedes the 1964 edition; current desert doctrine is ATP 3-90.99 / MCTP 12-10D (2021) — use FM 31-25 for its environment and water-discipline depth.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
