@@ -1,0 +1,10 @@
+name: atp_3_90_99_desert_operations
+title: ATP 3-90.99 Desert Operations (2021)
+description: 'ATP 3-90.99 / MCTP 12-10D Desert Operations (U.S. Army / Marine Corps, Apr 2021, Change 1, 180 pages) — joint doctrine for fighting in deserts: desert classifications and terrain, weather, environmental effects on personnel and equipment, heat and the WBGT work/rest table, water planning (two gallons per person per day), acclimatization, the operational framework and multi-domain battlefield, the eight elements of combat power, desert offensive, defensive, and stability operations, plus appendices on world desert regions, desert equipment techniques, and fratricide reduction. Use when asked about desert operations, desert warfare, WBGT work/rest, desert water planning, heat acclimatization, or operating a force in arid terrain.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
