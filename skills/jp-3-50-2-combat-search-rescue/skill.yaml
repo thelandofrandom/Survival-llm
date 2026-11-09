@@ -1,0 +1,10 @@
+name: jp_3_50_2_combat_search_rescue
+title: JP 3-50.2 Doctrine for Joint Combat Search and Rescue
+description: 'JP 3-50.2 Doctrine for Joint Combat Search and Rescue (Joint, Jan 1996): who is responsible for combat search and rescue and how a joint CSAR incident runs — the Joint Search and Rescue Center (JSRC) and component rescue coordination centers (RCCs), the incident sequence from distress indicator to debriefing, CSAR reporting, electronic and visual search methods and search-area designation, recovery methods, command relationships, planning, intelligence, and Service CSAR capabilities. Use when planning or running a joint CSAR response; when asked who owns CSAR, how a JSRC or RCC works, how a downed aircrew is reported, located, and recovered, or what the Evasion Plan of Action and ISOPREP (DD Form 1833) are for.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

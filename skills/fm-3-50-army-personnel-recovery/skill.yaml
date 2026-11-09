@@ -1,0 +1,10 @@
+name: fm_3_50_army_personnel_recovery
+title: FM 3-50 Army Personnel Recovery
+description: 'FM 3-50 Army Personnel Recovery (Army, September 2014, 104 pages): how the Army runs personnel recovery — foundations and organizations, the four Army PR components (focal groups, options, tasks, military methods of recovery), shared PR proficiencies, commander and staff responsibilities and supporting tools (ISOPREP, evasion plans of action, PR mission software), planning through the military decisionmaking process, and PR considerations for major combat operations, stability operations, and defense support of civil authorities. Use when asked how the Army organizes and plans personnel recovery, what isolated Soldier guidance is, who owns PR at each echelon, or how PR differs between combat, stability, and domestic support missions.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

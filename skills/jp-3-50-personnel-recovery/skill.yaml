@@ -1,0 +1,10 @@
+name: jp_3_50_personnel_recovery
+title: JP 3-50 Personnel Recovery
+description: 'JP 3-50 Personnel Recovery (Joint, January 2015, 280 pages): the joint doctrine for bringing isolated personnel home — the Department of Defense personnel recovery system (preparation, planning, execution, adaptation), functions and responsibilities from geographic combatant commanders to the Joint Personnel Recovery Center, command and control, preparation through education, training, and equipment, planning and the personnel recovery appendix to the operation plan, and execution through the five tasks of Report, Locate, Support, Recover, and Reintegrate. Use when planning or explaining a personnel recovery operation, when asked who is responsible for what in a recovery, how the PR system works, or how reintegration is handled after recovery.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
