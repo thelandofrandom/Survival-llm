@@ -1,0 +1,10 @@
+name: mcrp_3_02f_survival
+title: MCRP 3-02F Survival
+description: 'MCRP 3-02F Survival (Marine Corps, 571 pages): the Marine Corps survival manual, built on the SURVIVAL keyword — psychology of survival, survival planning and kits, basic survival medicine, shelters, water procurement, firecraft, food procurement, survival use of plants, poisonous plants, dangerous animals, field-expedient weapons, tools, and equipment, desert, tropical, cold-weather, and sea survival, expedient water crossings, field-expedient direction finding, signaling techniques, survival movement in hostile areas, camouflage, contact with people, and survival in man-made hazards. Use when a Marine or anyone in a hostile-area survival situation needs the full survival system with an emphasis on evasion, movement, and contact with local people; when asked about Marine survival procedures, water crossings, or direction finding without a compass.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

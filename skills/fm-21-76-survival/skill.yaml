@@ -1,0 +1,10 @@
+name: fm_21_76_survival
+title: FM 21-76 Survival
+description: 'FM 21-76 Survival (Army, June 1992, 646 pages): the classic Army survival manual — the SURVIVAL acronym and psychology of survival, survival planning and kits, basic survival medicine, shelters, water procurement and purification, firecraft, food procurement and edible plants, poisonous plants, dangerous animals, field-expedient weapons and tools, and desert, tropical, cold-weather, and sea survival, plus direction finding, signaling, evasion movement, camouflage, contact with people, and survival in man-made hazards. Use when someone is lost, stranded, or isolated in any environment; when asked how to build a shelter, start a fire, find and purify water, find edible plants, or signal for rescue; or when planning a survival kit. Note: largely superseded for current Army doctrine by ATP 3-50.21 (2018), which is the newer, shorter survival manual — use FM 21-76 for its far deeper field detail, environment chapters, and evasion material.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

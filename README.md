@@ -38,7 +38,42 @@ Each skill in `skills/<slug>/` has:
 | [commanders-tactical-handbook](skills/commanders-tactical-handbook/) | MCRP 3-11.1A | Commander's Tactical Handbook | Marine Corps | Jul 1988 | 287 | 2,750 | 41,467 |
 | [rifle-carbine](skills/rifle-carbine/) | TC 3-22.9 C3 | Rifle and Carbine | Army | May 2016 | 252 | 3,229 | 48,939 |
 
-Totals: 25 skills, 6,939 source pages, 83,634 distilled SKILL.md words, ~2.0M words of verbatim full text.
+Totals: 50 skills, 12,651 source pages, 164,843 distilled SKILL.md words, ~3.7M words of verbatim full text.
+
+
+## Skills (25) — Expansion Wave 1: Fieldcraft Survival
+
+| Skill | Publication | Title | Branch | Date | Pages | SKILL.md words | Full-text words |
+|---|---|---|---|---|---|---|---|
+| [fm-21-76-survival](skills/fm-21-76-survival/) | FM 21-76 | Survival | Army | Jun 1992 | 646 | 3,492 | 111,126 |
+| [fm-21-76-1-survival-evasion-recovery](skills/fm-21-76-1-survival-evasion-recovery/) | FM 21-76-1 | Survival, Evasion, and Recovery | Army | Jan 1999 | 107 | 2,639 | 14,648 |
+| [mcrp-3-02f-survival](skills/mcrp-3-02f-survival/) | MCRP 3-02F | Survival | Marine Corps | undated | 571 | 3,186 | 111,036 |
+| [jp-3-50-personnel-recovery](skills/jp-3-50-personnel-recovery/) | JP 3-50 | Personnel Recovery | Joint | Jan 2015 | 280 | 2,731 | 87,360 |
+| [fm-3-50-army-personnel-recovery](skills/fm-3-50-army-personnel-recovery/) | FM 3-50 | Army Personnel Recovery | Army | Sep 2014 | 104 | 2,707 | 44,140 |
+| [jp-3-50-2-combat-search-rescue](skills/jp-3-50-2-combat-search-rescue/) | JP 3-50.2 | Doctrine for Joint Combat Search and Rescue | Joint | Jan 1996 | 117 | 4,207 | 33,726 |
+| [jp-3-50-21-csar-ttps](skills/jp-3-50-21-csar-ttps/) | JP 3-50.21 | Joint TTPs for Combat Search and Rescue | Joint | Mar 1998 | 149 | 3,660 | 35,750 |
+| [afdp-3-50-personnel-recovery](skills/afdp-3-50-personnel-recovery/) | AFDP 3-50 | Personnel Recovery | Air Force | Sep 2025 | 31 | 3,055 | 11,159 |
+| [atp-3-90-96-arctic-cold-weather](skills/atp-3-90-96-arctic-cold-weather/) | ATP 3-90.96 C2 | Arctic and Extreme Cold Weather Operations | Army | Feb 2025 | 292 | 3,513 | 120,058 |
+| [mctp-12-10e-arctic-cold-weather](skills/mctp-12-10e-arctic-cold-weather/) | MCTP 12-10E | Arctic and Extreme Cold Weather Operations | Marine Corps | Feb 2025 | 292 | 3,564 | 120,013 |
+| [atp-3-21-50-mountain-cold-weather](skills/atp-3-21-50-mountain-cold-weather/) | ATP 3-21.50 | Infantry Small-Unit Mountain and Cold Weather Operations | Army | Jul 2025 | 200 | 3,504 | 94,243 |
+| [atp-3-21-18-foot-marches](skills/atp-3-21-18-foot-marches/) | ATP 3-21.18 | Foot Marches | Army | Jul 2025 | 168 | 3,111 | 61,227 |
+| [atp-3-90-97-mountain-cold-warfare](skills/atp-3-90-97-mountain-cold-warfare/) | ATP 3-90.97 | Mountain Warfare and Cold Weather Operations | Army | Apr 2016 | 156 | 2,906 | 69,890 |
+| [mctp-12-10a-mountain-warfare](skills/mctp-12-10a-mountain-warfare/) | MCTP 12-10A | Mountain Warfare | Marine Corps | Jul 2024 | 174 | 2,569 | 68,231 |
+| [mcrp-12-10a-1-mountain-warfare-leaders-guide](skills/mcrp-12-10a-1-mountain-warfare-leaders-guide/) | MCRP 12-10A.1 W/CH-1 | Small Unit Leader's Guide to Mountain Warfare | Marine Corps | May 2026 | 240 | 3,412 | 75,402 |
+| [mcrp-12-10a-2-winter-mountain-leader](skills/mcrp-12-10a-2-winter-mountain-leader/) | MCRP 12-10A.2 | Winter Mountain Leader's Guide to Mountain Warfare | Marine Corps | May 2026 | 116 | 4,249 | 32,284 |
+| [mcrp-12-10a-3-mountain-leaders-guide](skills/mcrp-12-10a-3-mountain-leaders-guide/) | MCRP 12-10A.3 | Mountain Leader's Guide to Mountain Warfare Operations | Marine Corps | Apr 2018 | 420 | 3,747 | 150,589 |
+| [mctp-12-10d-desert-operations](skills/mctp-12-10d-desert-operations/) | MCTP 12-10D | Desert Operations | Marine Corps | Apr 2021 | 176 | 2,940 | 82,882 |
+| [mctp-12-10c-jungle-operations](skills/mctp-12-10c-jungle-operations/) | MCTP 12-10C | Jungle Operations | Marine Corps | Sep 2020 | 208 | 3,352 | 101,626 |
+| [fm-90-3-desert-operations](skills/fm-90-3-desert-operations/) | FM 90-3 | Desert Operations | Army | Jan 1993 | 221 | 3,019 | 61,871 |
+| [fm-21-150-combatives](skills/fm-21-150-combatives/) | FM 21-150 | Combatives | Army | Jan 1992 | 232 | 2,922 | 30,003 |
+| [fm-3-25-150-combatives](skills/fm-3-25-150-combatives/) | FM 3-25.150 | Combatives | Army | Jan 2002 | 265 | 2,665 | 36,389 |
+| [summer-survival-course](skills/summer-survival-course/) | MWTC Summer Survival Course Handbook | Summer Survival Course Handbook | Marine Corps | Jan 2002 | 180 | 3,515 | 40,809 |
+| [winter-survival-course](skills/winter-survival-course/) | MWTC Winter Survival Course Handbook | Winter Survival Course Handbook | Marine Corps | Jan 2002 | 187 | 3,291 | 41,950 |
+| [atp-3-90-99-desert-operations](skills/atp-3-90-99-desert-operations/) | ATP 3-90.99 C1 | Desert Operations | Army | Apr 2021 | 180 | 3,253 | 82,745 |
+
+Wave 1 totals: 25 skills, 5,712 source pages, 81,209 distilled SKILL.md words, 1,719,157 words of verbatim full text.
+
+Notes: ATP 3-90.96 / MCTP 12-10E are the same joint Arctic publication under different Service numbers (Army- vs Marine-framed skills, cross-referenced). Same for ATP 3-90.99 / MCTP 12-10D Desert Operations (4,529 of ~7,000 text lines shared). FM 21-76 is superseded by ATP 3-50.21 as the current survival authority; the 1992/2002 combatives editions are superseded by TC 3-25.150 (2017).
 
 ## Notes and warnings
 
@@ -57,4 +92,4 @@ Totals: 25 skills, 6,939 source pages, 83,634 distilled SKILL.md words, ~2.0M wo
 
 ## Scope
 
-The vault holds 3,513 manuals in total (crawled 2026-11-08). This repo starts with the 25 Recommended manuals; expansion proceeds by category — Fieldcraft Survival (77), Medical/TCCC (219), Small Unit Tactics (408), Comms Signal (567), Marksmanship Weapons (134) — in that order. See BUILD_LOG.md for progress.
+The vault holds 3,513 manuals in total (crawled 2026-11-08). This repo now holds 50 skills: the 25 Recommended manuals plus 25 Fieldcraft Survival manuals (wave 1). Next: the remaining 45 Fieldcraft manuals, then Medical/TCCC (219), Small Unit Tactics (408), Comms Signal (567), Marksmanship Weapons (134). See BUILD_LOG.md for progress.

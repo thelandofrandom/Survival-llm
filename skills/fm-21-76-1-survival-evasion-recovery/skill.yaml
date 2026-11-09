@@ -1,0 +1,10 @@
+name: fm_21_76_1_survival_evasion_recovery
+title: FM 21-76-1 Survival, Evasion, and Recovery
+description: 'FM 21-76-1 Survival, Evasion, and Recovery (multiservice, June 1999, 107 pages): the pocket procedures manual for all four services — the quick-reference SURVIVAL checklist, evasion and hole-up sites, navigation by compass, sun, and stars, radio communications and signaling, helicopter and ground recovery procedures and authentication, medical self-aid, personal protection and shelter, water procurement and purification, food procurement, snares, and the plant edibility test, plus induced conditions (nuclear, biological, chemical hazards). Use when asked for the evasion quick-reference checklist, how to hole up and move undetected, how to signal or authenticate for pickup, or for the condensed field procedures behind the longer FM 21-76.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
