@@ -1,0 +1,10 @@
+name: fm_31_71_northern_operations
+title: FM 31-71 Northern Operations
+description: 'FM 31-71 Northern Operations (Army, June 1971, 199 pages): the northern/arctic operations manual — the area of northern operations (45% of North America, 65% of Eurasia), leadership and decentralized command, mobility as a cardinal principle, night operations as the rule in winter, lines of communication, shelter denial as a weapon, whiteout and greyout, offensive/defensive/retrograde and airmobile operations, airborne and ice operations, logistics (distance measured in time), medical support and helicopter evacuation (1–3 day holding period), and northern communications — auroral blackout (60–70° North), atmospheric and precipitation static, and cold effects on batteries (40% at 0°F, 20% at −10°F, 8% at −30°F). Use when asked about arctic or northern operations, winter warfare, auroral radio blackout, cold-weather communications, or northern logistics and evacuation. Note: 1971 equipment and communications details are obsolete — current doctrine is ATP 3-90.96 (2025); follow the current manual where they differ.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

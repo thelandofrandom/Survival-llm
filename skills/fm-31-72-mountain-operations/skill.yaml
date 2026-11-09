@@ -1,0 +1,10 @@
+name: fm_31_72_mountain_operations
+title: FM 31-72 Mountain Operations
+description: 'FM 31-72 Mountain Operations (Army, May 1964, 160 pages): the 1964 mountain operations manual and the most technically detailed mountaineering manual in the vault — balance climbing and holds, pitons and snaplinks, rappels, free climbing, unit movement on ropes, mountain stream crossings, evacuation, snow classification, avalanche causes and stabilization, avalanche safety rules and rescue (two-hour survival limit, 15-minute followup, last seen point, 15–20 meter avalanche cord), glacier movement, crevasses and snow bridges, and fixed alpine paths (handlines, ladders, three-rope suspended walkway, cableways). Use when asked about rock climbing technique, rope work, rappelling, avalanche safety and rescue, glacier travel and crevasses, or building fixed alpine paths; or when comparing historical mountain doctrine with current practice. Note: 1964 equipment and hardware are obsolete — current doctrine is TC 3-97.61 (2025) and ATP 3-90.97; follow the current manuals where they differ.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
