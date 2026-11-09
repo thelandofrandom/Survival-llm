@@ -1,0 +1,10 @@
+name: fm_31_36_night_operations
+title: FM 31-36 (TEST) Night Operations
+description: 'CORRECTION: despite the vault label "Jungle Operations", FM 31-36 (TEST) is Night Operations (Army, April 1968, 280 pages) — interim doctrine for fighting at night at battalion level and below, with principal emphasis on Southeast Asia: the night environment and illumination levels, dark adaptation, night vision devices and battlefield illumination, sound ranging, anti-intrusion devices, radars and aerial surveillance, the night attack and its nine prerequisites, night defense, night retrograde, night patrols, and night stability operations. Use when planning or studying night operations, night patrolling, or dark adaptation and illumination; do NOT use as a jungle manual. Note: a 1968 TEST edition with obsolete equipment — current doctrine governs; the vault label should be corrected to Night Operations.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true

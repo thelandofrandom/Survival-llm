@@ -1,0 +1,10 @@
+name: fm_31_30_jungle_operations
+title: FM 31-30 Jungle Training and Operations
+description: 'FM 31-30 Jungle Training and Operations (Army, September 1965, 232 pages): the Vietnam-era foundation manual for jungle combat — the jungle defined and the fear of it unlearned, primary vs. secondary growth, heat acclimation and heat disorders with water and salt numbers, living in the jungle, movement calculated in time not distance, march discipline, offense, defense and retrograde, raids, ambush and counterambush, tracking, tactical combat and patrol bases, combat support, jungle transportation and logistics, and tropical medical service. Use when planning jungle training, acclimating troops to heat and humidity, estimating jungle march rates, or studying how jungle doctrine began. Note: superseded by FM 31-35 (1969) and FM 90-5 (1982); current jungle doctrine is MCTP 12-10C (2020) — use FM 31-30 for its training depth and foundation concepts.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
